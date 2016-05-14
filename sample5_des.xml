@@ -1,0 +1,473 @@
+<ns2:pages xmlns:ns2="http://schema.intuit.com/data-extraction/3.0/data-extraction" confidence="0.9937955">
+  <ns2:page number="1" filename="sample-invoice-4.pdf" confidence="0.9937955">
+    <ns2:blocks>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>Date:</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>386</ns2:bottom>
+            <ns2:left>1763</ns2:left>
+            <ns2:right>1856</ns2:right>
+            <ns2:top>356</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="0.8333333">
+        <ns2:text>Ibiomobility</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>618</ns2:bottom>
+            <ns2:left>372</ns2:left>
+            <ns2:right>1108</ns2:right>
+            <ns2:top>430</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>LLC</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>660</ns2:bottom>
+            <ns2:left>1033</ns2:left>
+            <ns2:right>1083</ns2:right>
+            <ns2:top>637</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>Biomobility, LLC</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>729</ns2:bottom>
+            <ns2:left>303</ns2:left>
+            <ns2:right>629</ns2:right>
+            <ns2:top>691</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>311 Woodland Drive</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>769</ns2:bottom>
+            <ns2:left>302</ns2:left>
+            <ns2:right>675</ns2:right>
+            <ns2:top>739</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0"><ns2:text>European Union Customers: Please see important note below</ns2:text>
+      <ns2:region>
+        <ns2:rectangle>
+          <ns2:bottom>777</ns2:bottom>
+          <ns2:left>1298</ns2:left>
+          <ns2:right>1900</ns2:right>
+          <ns2:top>693</ns2:top>
+        </ns2:rectangle>
+      </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+      <ns2:text>Hillsboro, OH 45133</ns2:text>
+      <ns2:region>
+        <ns2:rectangle>
+          <ns2:bottom>823</ns2:bottom>
+          <ns2:left>303</ns2:left>
+          <ns2:right>685</ns2:right>
+          <ns2:top>787</ns2:top>
+        </ns2:rectangle>
+      </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="0.9655172"><ns2:text>http://www.biomobility.com E-mail support@.biomobility.com</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>917</ns2:bottom>
+        <ns2:left>303</ns2:left>
+        <ns2:right>896</ns2:right>
+        <ns2:top>835</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Phone (937) 763-5466</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>873</ns2:bottom>
+        <ns2:left>1300</ns2:left>
+        <ns2:right>1712</ns2:right>
+        <ns2:top>835</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Fax (775) 255-1246</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>921</ns2:bottom>
+        <ns2:left>1300</ns2:left>
+        <ns2:right>1661</ns2:right>
+        <ns2:top>883</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="0.96">
+    <ns2:text>Tax ID Number: 41-2095756</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>961</ns2:bottom>
+        <ns2:left>1298</ns2:left>
+        <ns2:right>1823</ns2:right>
+        <ns2:top>931</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Purchase Order# (if applicable):</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1066</ns2:bottom>
+        <ns2:left>300</ns2:left>
+        <ns2:right>873</ns2:right>
+        <ns2:top>1029</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Bill To:</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1155</ns2:bottom>
+        <ns2:left>325</ns2:left>
+        <ns2:right>459</ns2:right>
+        <ns2:top>1125</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="0.974359">
+    <ns2:text>Ship To: Check here if same as bill to:</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1163</ns2:bottom>
+        <ns2:left>1298</ns2:left>
+        <ns2:right>2018</ns2:right>
+        <ns2:top>1125</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>e-mail address:</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1435</ns2:bottom>
+        <ns2:left>323</ns2:left>
+        <ns2:right>547</ns2:right>
+        <ns2:top>1411</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Qty</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1498</ns2:bottom>
+        <ns2:left>324</ns2:left>
+        <ns2:right>390</ns2:right>
+        <ns2:top>1460</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Item</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1490</ns2:bottom>
+        <ns2:left>512</ns2:left>
+        <ns2:right>593</ns2:right>
+        <ns2:top>1460</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Description</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1498</ns2:bottom>
+        <ns2:left>982</ns2:left>
+        <ns2:right>1205</ns2:right>
+        <ns2:top>1460</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Each</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1490</ns2:bottom>
+        <ns2:left>1715</ns2:left>
+        <ns2:right>1808</ns2:right>
+        <ns2:top>1460</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Total</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1490</ns2:bottom>
+        <ns2:left>2013</ns2:left>
+        <ns2:right>2109</ns2:right>
+        <ns2:top>1460</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>$14.95</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1593</ns2:bottom>
+        <ns2:left>1674</ns2:left>
+        <ns2:right>1797</ns2:right>
+        <ns2:top>1557</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>$</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1593</ns2:bottom>
+        <ns2:left>1899</ns2:left>
+        <ns2:right>1919</ns2:right>
+        <ns2:top>1557</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Data On The Run</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1602</ns2:bottom>
+        <ns2:left>513</ns2:left>
+        <ns2:right>833</ns2:right>
+        <ns2:top>1548</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Pocket PC database software</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1589</ns2:bottom>
+        <ns2:left>982</ns2:left>
+        <ns2:right>1526</ns2:right>
+        <ns2:top>1559</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0"><ns2:text>Pocket PC diet and exercise software</ns2:text>
+  <ns2:region>
+    <ns2:rectangle>
+      <ns2:bottom>1744</ns2:bottom>
+      <ns2:left>980</ns2:left>
+      <ns2:right>1500</ns2:right>
+      <ns2:top>1666</ns2:top>
+    </ns2:rectangle>
+  </ns2:region>
+</ns2:textBlock>
+<ns2:textBlock confidence="1.0">
+  <ns2:text>$19.95</ns2:text>
+  <ns2:region>
+    <ns2:rectangle>
+      <ns2:bottom>1724</ns2:bottom>
+      <ns2:left>1674</ns2:left>
+      <ns2:right>1797</ns2:right>
+      <ns2:top>1688</ns2:top>
+    </ns2:rectangle>
+  </ns2:region>
+</ns2:textBlock>
+<ns2:textBlock confidence="1.0">
+  <ns2:text>$</ns2:text>
+  <ns2:region>
+    <ns2:rectangle>
+      <ns2:bottom>1724</ns2:bottom>
+      <ns2:left>1899</ns2:left>
+      <ns2:right>1919</ns2:right>
+      <ns2:top>1688</ns2:top>
+    </ns2:rectangle>
+  </ns2:region>
+</ns2:textBlock>
+<ns2:textBlock confidence="1.0">
+  <ns2:text>Mobile Coach</ns2:text>
+  <ns2:region>
+    <ns2:rectangle>
+      <ns2:bottom>1733</ns2:bottom>
+      <ns2:left>510</ns2:left>
+      <ns2:right>762</ns2:right>
+      <ns2:top>1679</ns2:top>
+    </ns2:rectangle>
+  </ns2:region>
+</ns2:textBlock>
+<ns2:textBlock confidence="1.0"><ns2:text>Mobile Coach for Windows</ns2:text>
+<ns2:region>
+  <ns2:rectangle>
+    <ns2:bottom>1875</ns2:bottom>
+    <ns2:left>510</ns2:left>
+    <ns2:right>825</ns2:right>
+    <ns2:top>1786</ns2:top>
+  </ns2:rectangle>
+</ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0"><ns2:text>Windows diet and exercise software</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>1875</ns2:bottom>
+  <ns2:left>980</ns2:left>
+  <ns2:right>1472</ns2:right>
+  <ns2:top>1797</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+  <ns2:text>$15.99</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>1855</ns2:bottom>
+  <ns2:left>1674</ns2:left>
+  <ns2:right>1797</ns2:right>
+  <ns2:top>1819</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+  <ns2:text>$</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>1855</ns2:bottom>
+  <ns2:left>1899</ns2:left>
+  <ns2:right>1919</ns2:right>
+  <ns2:top>1819</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+  <ns2:text>$4.99</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>2001</ns2:bottom>
+  <ns2:left>1674</ns2:left>
+  <ns2:right>1774</ns2:right>
+  <ns2:top>1965</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+  <ns2:text>$</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>2001</ns2:bottom>
+  <ns2:left>1899</ns2:left>
+  <ns2:right>1919</ns2:right>
+  <ns2:top>1965</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+  <ns2:text>CopyText Pro</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>2005</ns2:bottom>
+  <ns2:left>512</ns2:left>
+  <ns2:right>763</ns2:right>
+  <ns2:top>1967</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+  <ns2:text>Pocket PC text utility software</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>2005</ns2:bottom>
+  <ns2:left>982</ns2:left>
+  <ns2:right>1528</ns2:right>
+  <ns2:top>1967</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+  <ns2:text>$</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>2143</ns2:bottom>
+  <ns2:left>1903</ns2:left>
+  <ns2:right>1923</ns2:right>
+  <ns2:top>2107</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+  <ns2:text>Total :</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>2139</ns2:bottom>
+  <ns2:left>1673</ns2:left>
+  <ns2:right>1793</ns2:right>
+  <ns2:top>2109</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0"><ns2:text>Thanks for your business! Payment should be made in US funds to Biomobility, LLC. For technical support, visit our web site at http://www.biomobility.com, or e-mail support@biomobility.com. Customers from European Union countries should use http://www.biomobility.com/purchase.htm to purchase software; because of changes in the way VAT tax is handled, all orders from European Union customers must go through the web site, effective July 1, 2003.</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>2517</ns2:bottom>
+<ns2:left>322</ns2:left>
+<ns2:right>1611</ns2:right>
+<ns2:top>2174</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+    <ns2:text>Taxes (Ohio residents</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>2313</ns2:bottom>
+<ns2:left>1673</ns2:left>
+<ns2:right>2105</ns2:right>
+<ns2:top>2256</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+    <ns2:text>add 6%) $</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>2354</ns2:bottom>
+<ns2:left>1673</ns2:left>
+<ns2:right>1888</ns2:right>
+<ns2:top>2314</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+    <ns2:text>Balance Due $</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>2558</ns2:bottom>
+<ns2:left>1675</ns2:left>
+<ns2:right>2009</ns2:right>
+<ns2:top>2501</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+    <ns2:text>Downloaded from http://www.tidyforms.com</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>3293</ns2:bottom>
+<ns2:left>899</ns2:left>
+<ns2:right>1665</ns2:right>
+<ns2:top>3258</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+        </ns2:blocks>
+          </ns2:page>
+            </ns2:pages>

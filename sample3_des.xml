@@ -1,0 +1,1951 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:pages xmlns:ns2="http://schema.intuit.com/data-extraction/3.0/data-extraction" confidence="0.8857768">
+  <ns2:page number="1" filename="pdf.pdf" confidence="0.99245197">
+    <ns2:blocks>
+      <ns2:textBlock confidence="0.8">
+        <ns2:text>• I *</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>343</ns2:bottom>
+            <ns2:left>254</ns2:left>
+            <ns2:right>336</ns2:right>
+            <ns2:top>307</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="0.9736842">
+        <ns2:text>x Create PDF files quickly and easily!</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>380</ns2:bottom>
+            <ns2:left>679</ns2:left>
+            <ns2:right>1874</ns2:right>
+            <ns2:top>325</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0"><ns2:text>The pdf995 suite of products - Pdf995, PdfEdit995, and Signature995 - is a complete solution for your document publishing needs. It provides ease of use, flexibility in format, and industry-standard security- and all at no cost to you.</ns2:text>
+      <ns2:region>
+        <ns2:rectangle>
+          <ns2:bottom>680</ns2:bottom>
+          <ns2:left>151</ns2:left>
+          <ns2:right>2339</ns2:right>
+          <ns2:top>597</ns2:top>
+        </ns2:rectangle>
+      </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0"><ns2:text>Pdf995 makes it easy and affordable to create professional-quality documents in the popular PDF file format. Its easy-to-use interface helps you to create PDF files by simply selecting the &quot;print&quot; command from any application, creating documents which can be viewed on any computer with a PDF viewer. Pdf995 supports network file saving, fast user switching on XP, Citrix/Terminal Server, custom page sizes and large format printing. Pdf995 is a printer driver that works with any Postscript to PDF converter. The pdf995 printer driver and a free Converter are available for easy download.</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>956</ns2:bottom>
+        <ns2:left>151</ns2:left>
+        <ns2:right>2364</ns2:right>
+        <ns2:top>732</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0"><ns2:text>PdfEdit995 offers a wealth of additional functionality, such as: combining documents into a single PDF; automatic link insertion; hierarchical bookmark insertion; PDF conversion to HTML or DOC (text only); integration with Word toolbar with automatic table of contents and link generation; autoattach to email; stationery and stamping.</ns2:text>
+  <ns2:region>
+    <ns2:rectangle>
+      <ns2:bottom>1138</ns2:bottom>
+      <ns2:left>151</ns2:left>
+      <ns2:right>2305</ns2:right>
+      <ns2:top>1008</ns2:top>
+    </ns2:rectangle>
+  </ns2:region>
+</ns2:textBlock>
+<ns2:textBlock confidence="1.0">
+  <ns2:text>Signature995 offers state-of-the-art security and encryption to protect your documents and add digital signatures.</ns2:text>
+  <ns2:region>
+    <ns2:rectangle>
+      <ns2:bottom>1226</ns2:bottom>
+      <ns2:left>152</ns2:left>
+      <ns2:right>2031</ns2:right>
+      <ns2:top>1190</ns2:top>
+    </ns2:rectangle>
+  </ns2:region>
+</ns2:textBlock>
+<ns2:textBlock confidence="1.0">
+  <ns2:text>The Pdf995 Suite offers the following features, all at no cost:</ns2:text>
+  <ns2:region>
+    <ns2:rectangle>
+      <ns2:bottom>1497</ns2:bottom>
+      <ns2:left>457</ns2:left>
+      <ns2:right>1529</ns2:right>
+      <ns2:top>1461</ns2:top>
+    </ns2:rectangle>
+  </ns2:region>
+</ns2:textBlock>
+<ns2:textBlock confidence="1.0"><ns2:text>Automatic insertion of embedded links Hierarchical Bookmarks</ns2:text>
+<ns2:region>
+  <ns2:rectangle>
+    <ns2:bottom>1638</ns2:bottom>
+    <ns2:left>457</ns2:left>
+    <ns2:right>1052</ns2:right>
+    <ns2:top>1567</ns2:top>
+  </ns2:rectangle>
+</ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0"><ns2:text>Option to attach PDFs to email after creation Automatic text summarization of PDF documents</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>1681</ns2:bottom>
+  <ns2:left>1356</ns2:left>
+  <ns2:right>2050</ns2:right>
+  <ns2:top>1567</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0"><ns2:text>Easy integration with document management and Workflow systems n-Up printing</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>1821</ns2:bottom>
+<ns2:left>1356</ns2:left>
+<ns2:right>2061</ns2:right>
+<ns2:top>1698</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+    <ns2:text>Automatic page numbering</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>1864</ns2:bottom>
+<ns2:left>1356</ns2:left>
+<ns2:right>1776</ns2:right>
+<ns2:top>1829</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+    <ns2:text>Simple Programmers Interface</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>1908</ns2:bottom>
+<ns2:left>1357</ns2:left>
+<ns2:right>1833</ns2:right>
+<ns2:top>1873</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+    <ns2:text>Option to automatically display PDFs after</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>1952</ns2:bottom>
+<ns2:left>1356</ns2:left>
+<ns2:right>2013</ns2:right>
+<ns2:top>1917</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+    <ns2:text>creation</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>1988</ns2:bottom>
+<ns2:left>1356</ns2:left>
+<ns2:right>1479</ns2:right>
+<ns2:top>1961</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="0.9962547"><ns2:text>Custom resizing of PDF output Configurable Font embedding Support for Citrix/Terminal Server Support for Windows 2003 Server Easy PS to PDF processing Specify PDF document properties Control PDF opening mode Can be configured to add functionality to Acrobat Distiller</ns2:text>
+      <ns2:region>
+    <ns2:rectangle>
+  <ns2:bottom>2381</ns2:bottom>
+  <ns2:left>1355</ns2:left>
+  <ns2:right>1986</ns2:right>
+  <ns2:top>1997</ns2:top>
+    </ns2:rectangle>
+      </ns2:region>
+        </ns2:textBlock>
+        <ns2:textBlock confidence="1.0"><ns2:text>Support for Digital Signatures Support for Triple DES encryption</ns2:text>
+        <ns2:region>
+      <ns2:rectangle>
+    <ns2:bottom>1733</ns2:bottom>
+    <ns2:left>458</ns2:left>
+    <ns2:right>982</ns2:right>
+    <ns2:top>1647</ns2:top>
+      </ns2:rectangle>
+        </ns2:region>
+          </ns2:textBlock>
+          <ns2:textBlock confidence="1.0">
+        <ns2:text>Append and Delete PDF Pages</ns2:text>
+        <ns2:region>
+      <ns2:rectangle>
+    <ns2:bottom>1777</ns2:bottom>
+    <ns2:left>457</ns2:left>
+    <ns2:right>947</ns2:right>
+    <ns2:top>1742</ns2:top>
+      </ns2:rectangle>
+        </ns2:region>
+          </ns2:textBlock>
+          <ns2:textBlock confidence="1.0">
+        <ns2:text>Batch Print from Microsoft Office</ns2:text>
+        <ns2:region>
+      <ns2:rectangle>
+    <ns2:bottom>1813</ns2:bottom>
+    <ns2:left>459</ns2:left>
+    <ns2:right>964</ns2:right>
+    <ns2:top>1786</ns2:top>
+      </ns2:rectangle>
+        </ns2:region>
+          </ns2:textBlock>
+          <ns2:textBlock confidence="1.0">
+        <ns2:text>Asian and Cyrillic fonts</ns2:text>
+        <ns2:region>
+      <ns2:rectangle>
+    <ns2:bottom>1864</ns2:bottom>
+    <ns2:left>457</ns2:left>
+    <ns2:right>812</ns2:right>
+    <ns2:top>1829</ns2:top>
+      </ns2:rectangle>
+        </ns2:region>
+          </ns2:textBlock>
+          <ns2:textBlock confidence="1.0">
+        <ns2:text>Integration with Microsoft Word toolbar</ns2:text>
+        <ns2:region>
+      <ns2:rectangle>
+    <ns2:bottom>1908</ns2:bottom>
+    <ns2:left>459</ns2:left>
+    <ns2:right>1060</ns2:right>
+    <ns2:top>1873</ns2:top>
+      </ns2:rectangle>
+        </ns2:region>
+          </ns2:textBlock>
+          <ns2:textBlock confidence="1.0">
+        <ns2:text>PDF Stationery</ns2:text>
+        <ns2:region>
+      <ns2:rectangle>
+    <ns2:bottom>1952</ns2:bottom>
+    <ns2:left>459</ns2:left>
+    <ns2:right>695</ns2:right>
+    <ns2:top>1917</ns2:top>
+      </ns2:rectangle>
+        </ns2:region>
+          </ns2:textBlock>
+          <ns2:textBlock confidence="1.0"><ns2:text>Combining multiple PDF's into a single PDF Three auto-name options to bypass Save As dialog Imposition of Draft/Confidential stamps Support for large format architectural printing</ns2:text>
+          <ns2:region>
+        <ns2:rectangle>
+      <ns2:bottom>2129</ns2:bottom>
+      <ns2:left>458</ns2:left>
+      <ns2:right>1256</ns2:right>
+      <ns2:top>1961</ns2:top>
+        </ns2:rectangle>
+          </ns2:region>
+            </ns2:textBlock>
+            <ns2:textBlock confidence="1.0">
+          <ns2:text>Convert PDF to JPEG, TIFF, BMP, PCX formats</ns2:text>
+          <ns2:region>
+        <ns2:rectangle>
+      <ns2:bottom>2168</ns2:bottom>
+      <ns2:left>459</ns2:left>
+      <ns2:right>1212</ns2:right>
+      <ns2:top>2135</ns2:top>
+        </ns2:rectangle>
+          </ns2:region>
+            </ns2:textBlock>
+            <ns2:textBlock confidence="1.0">
+          <ns2:text>Convert PDF to HTML and Word DOC conversion</ns2:text>
+          <ns2:region>
+        <ns2:rectangle>
+      <ns2:bottom>2206</ns2:bottom>
+      <ns2:left>459</ns2:left>
+      <ns2:right>1236</ns2:right>
+      <ns2:top>2179</ns2:top>
+        </ns2:rectangle>
+          </ns2:region>
+            </ns2:textBlock>
+            <ns2:textBlock confidence="1.0">
+          <ns2:text>Convert PDF to text</ns2:text>
+          <ns2:region>
+        <ns2:rectangle>
+      <ns2:bottom>2250</ns2:bottom>
+      <ns2:left>459</ns2:left>
+      <ns2:right>765</ns2:right>
+      <ns2:top>2223</ns2:top>
+        </ns2:rectangle>
+          </ns2:region>
+            </ns2:textBlock>
+            <ns2:textBlock confidence="1.0">
+          <ns2:text>Automatic Table of Contents generation</ns2:text>
+          <ns2:region>
+        <ns2:rectangle>
+      <ns2:bottom>2304</ns2:bottom>
+      <ns2:left>458</ns2:left>
+      <ns2:right>1077</ns2:right>
+      <ns2:top>2260</ns2:top>
+        </ns2:rectangle>
+          </ns2:region>
+            </ns2:textBlock>
+            <ns2:textBlock confidence="1.0">
+          <ns2:text>Support for XP Fast User Switching and multiple user</ns2:text>
+          <ns2:region>
+        <ns2:rectangle>
+      <ns2:bottom>2346</ns2:bottom>
+      <ns2:left>459</ns2:left>
+      <ns2:right>1291</ns2:right>
+      <ns2:top>2310</ns2:top>
+        </ns2:rectangle>
+          </ns2:region>
+            </ns2:textBlock>
+            <ns2:textBlock confidence="1.0">
+          <ns2:text>sessions</ns2:text>
+          <ns2:region>
+        <ns2:rectangle>
+      <ns2:bottom>2381</ns2:bottom>
+      <ns2:left>459</ns2:left>
+      <ns2:right>593</ns2:right>
+      <ns2:top>2354</ns2:top>
+        </ns2:rectangle>
+          </ns2:region>
+            </ns2:textBlock>
+            <ns2:textBlock confidence="1.0"><ns2:text>Standard PDF Encryption (restricted printing, modifying, Free: Creates PDFs without annoying copying text and images)</ns2:text>
+            <ns2:region>
+          <ns2:rectangle>
+        <ns2:bottom>2479</ns2:bottom>
+        <ns2:left>458</ns2:left>
+        <ns2:right>1941</ns2:right>
+        <ns2:top>2398</ns2:top>
+          </ns2:rectangle>
+            </ns2:region>
+              </ns2:textBlock>
+              <ns2:textBlock confidence="1.0"><ns2:text>Support for Optimized PDF Support for custom page sizes</ns2:text>
+              <ns2:region>
+            <ns2:rectangle>
+          <ns2:bottom>2564</ns2:bottom>
+          <ns2:left>459</ns2:left>
+          <ns2:right>933</ns2:right>
+          <ns2:top>2486</ns2:top>
+            </ns2:rectangle>
+              </ns2:region>
+                </ns2:textBlock>
+                <ns2:textBlock confidence="1.0">
+              <ns2:text>watermarks</ns2:text>
+              <ns2:region>
+            <ns2:rectangle>
+          <ns2:bottom>2469</ns2:bottom>
+          <ns2:left>1355</ns2:left>
+          <ns2:right>1537</ns2:right>
+          <ns2:top>2442</ns2:top>
+            </ns2:rectangle>
+              </ns2:region>
+                </ns2:textBlock>
+                <ns2:textBlock confidence="1.0"><ns2:text>Free: Fully functional, not a trial and does not expire</ns2:text>
+                <ns2:region>
+              <ns2:rectangle>
+            <ns2:bottom>2564</ns2:bottom>
+            <ns2:left>1356</ns2:left>
+            <ns2:right>2060</ns2:right>
+            <ns2:top>2486</ns2:top>
+              </ns2:rectangle>
+                </ns2:region>
+                  </ns2:textBlock>
+                  <ns2:textBlock confidence="1.0">
+                <ns2:text>Over 5 million satisfied customers</ns2:text>
+                <ns2:region>
+              <ns2:rectangle>
+            <ns2:bottom>2600</ns2:bottom>
+            <ns2:left>1356</ns2:left>
+            <ns2:right>1882</ns2:right>
+            <ns2:top>2573</ns2:top>
+              </ns2:rectangle>
+                </ns2:region>
+                  </ns2:textBlock>
+                  <ns2:textBlock confidence="1.0">
+                <ns2:text>Over 1000 Enterprise Customers worldwide</ns2:text>
+                <ns2:region>
+              <ns2:rectangle>
+            <ns2:bottom>2652</ns2:bottom>
+            <ns2:left>1356</ns2:left>
+            <ns2:right>2037</ns2:right>
+            <ns2:top>2617</ns2:top>
+              </ns2:rectangle>
+                </ns2:region>
+                  </ns2:textBlock>
+                  <ns2:textBlock confidence="0.9583333">
+                <ns2:text>Please visit us at www.pdf995.com to learn more.</ns2:text>
+                <ns2:region>
+              <ns2:rectangle>
+            <ns2:bottom>2804</ns2:bottom>
+            <ns2:left>611</ns2:left>
+            <ns2:right>1935</ns2:right>
+            <ns2:top>2754</ns2:top>
+              </ns2:rectangle>
+                </ns2:region>
+                  </ns2:textBlock>
+                  <ns2:textBlock confidence="1.0">
+                <ns2:text>This document illustrates several features of the Pdf995 Suite of Products.</ns2:text>
+                <ns2:region>
+              <ns2:rectangle>
+            <ns2:bottom>2921</ns2:bottom>
+            <ns2:left>455</ns2:left>
+            <ns2:right>2092</ns2:right>
+            <ns2:top>2883</ns2:top>
+              </ns2:rectangle>
+                </ns2:region>
+                  </ns2:textBlock>
+                    </ns2:blocks>
+                      </ns2:page>
+                      <ns2:page number="2" filename="pdf.pdf" confidence="0.8780452">
+                    <ns2:blocks>
+                  <ns2:textBlock confidence="0.0">
+                <ns2:text>NJRmL^jfca</ns2:text>
+                <ns2:region>
+              <ns2:rectangle>
+            <ns2:bottom>436</ns2:bottom>
+            <ns2:left>188</ns2:left>
+            <ns2:right>2260</ns2:right>
+            <ns2:top>100</ns2:top>
+              </ns2:rectangle>
+                </ns2:region>
+                  </ns2:textBlock>
+                  <ns2:textBlock confidence="0.90909094">
+                <ns2:text>VIRTUAL REHLITV MODELING LHNGUHGE</ns2:text>
+                <ns2:region>
+              <ns2:rectangle>
+            <ns2:bottom>464</ns2:bottom>
+            <ns2:left>200</ns2:left>
+            <ns2:right>1168</ns2:right>
+            <ns2:top>382</ns2:top>
+              </ns2:rectangle>
+                </ns2:region>
+                  </ns2:textBlock>
+                  <ns2:textBlock confidence="0.9285714">
+                <ns2:text>i Introduction</ns2:text>
+                <ns2:region>
+              <ns2:rectangle>
+            <ns2:bottom>754</ns2:bottom>
+            <ns2:left>386</ns2:left>
+            <ns2:right>1010</ns2:right>
+            <ns2:top>668</ns2:top>
+              </ns2:rectangle>
+                </ns2:region>
+                  </ns2:textBlock>
+                  <ns2:textBlock confidence="1.0"><ns2:text>The Virtual Reality Modeling Language (VRML) is a language for describing multi- participant interactive simulations -- virtual worlds networked via the global Internet and hyperlinked with the World Wide Web. All aspects of virtual world display, interaction and internetworking can be specified using VRML. It is the intention of its designers that VRML become the standard language for interactive simulation within the World Wide</ns2:text>
+                  <ns2:region>
+                <ns2:rectangle>
+              <ns2:bottom>1120</ns2:bottom>
+              <ns2:left>375</ns2:left>
+              <ns2:right>2155</ns2:right>
+              <ns2:top>844</ns2:top>
+                </ns2:rectangle>
+                  </ns2:region>
+                    </ns2:textBlock>
+                    <ns2:textBlock confidence="1.0">
+                  <ns2:text>Web.</ns2:text>
+                  <ns2:region>
+                <ns2:rectangle>
+              <ns2:bottom>1167</ns2:bottom>
+              <ns2:left>376</ns2:left>
+              <ns2:right>479</ns2:right>
+              <ns2:top>1131</ns2:top>
+                </ns2:rectangle>
+                  </ns2:region>
+                    </ns2:textBlock>
+                    <ns2:textBlock confidence="0.99854016"><ns2:text>The first version of VRML allows for the creation of virtual worlds with limited interactive behavior. These worlds can contain objects which have hyperlinks to other worlds, HTML documents or other valid MIME types. When the user selects an object with a hyperlink, the appropriate MIME viewer is launched. When the user selects a link to a VRML document from within a correctly configured WWW browser, a VRML viewer is launched. Thus VRML viewers are the perfect companion applications to standard WWW browsers for navigating and visualizing the Web. Future versions of VRML will allow for richer behaviors, including animations, motion physics and real¬ time multi-user interaction.</ns2:text>
+                    <ns2:region>
+                  <ns2:rectangle>
+                <ns2:bottom>1743</ns2:bottom>
+                <ns2:left>377</ns2:left>
+                <ns2:right>2145</ns2:right>
+                <ns2:top>1247</ns2:top>
+                  </ns2:rectangle>
+                    </ns2:region>
+                      </ns2:textBlock>
+                      <ns2:textBlock confidence="0.9859155">
+                    <ns2:text>This document specifies the features and syntax of Version 1.0 of VRML.</ns2:text>
+                    <ns2:region>
+                  <ns2:rectangle>
+                <ns2:bottom>1869</ns2:bottom>
+                <ns2:left>377</ns2:left>
+                <ns2:right>1850</ns2:right>
+                <ns2:top>1823</ns2:top>
+                  </ns2:rectangle>
+                    </ns2:region>
+                      </ns2:textBlock>
+                      <ns2:textBlock confidence="0.9583333">
+                    <ns2:text>* VRML Mission Statement</ns2:text>
+                    <ns2:region>
+                  <ns2:rectangle>
+                <ns2:bottom>1999</ns2:bottom>
+                <ns2:left>384</ns2:left>
+                <ns2:right>1280</ns2:right>
+                <ns2:top>1946</ns2:top>
+                  </ns2:rectangle>
+                    </ns2:region>
+                      </ns2:textBlock>
+                      <ns2:textBlock confidence="1.0"><ns2:text>The history of the development of the Internet has had three distinct phases; first, the development of the TCP/IP infrastructure which allowed documents and data to be stored in a proximally independent way; that is, Internet provided a layer of abstraction between data sets and the hosts which manipulated them. While this abstraction was useful, it was also confusing; without any clear sense of &quot;what went where&quot;, access to Internet was restricted to the class of sysops/net surfers who could maintain internal cognitive maps of the data space.</ns2:text>
+                      <ns2:region>
+                    <ns2:rectangle>
+                  <ns2:bottom>2474</ns2:bottom>
+                  <ns2:left>376</ns2:left>
+                  <ns2:right>2164</ns2:right>
+                  <ns2:top>2072</ns2:top>
+                    </ns2:rectangle>
+                      </ns2:region>
+                        </ns2:textBlock>
+                        <ns2:textBlock confidence="1.0"><ns2:text>Next, Tim Berners-Lee's work at CERN, where he developed the hypermedia system known as World Wide Web, added another layer of abstraction to the existing structure. This abstraction provided an &quot;addressing&quot; scheme, a unique identifier (the Universal Resource Locator), which could tell anyone &quot;where to go and how to get there&quot; for any piece of data within the Web. While useful, it lacked dimensionality; there's no there there within the web, and the only type of navigation permissible (other than surfing) is by direct reference. In other words, I can only tell you how to get to the VRML Forum home page by saying, &quot;http://www.wired.com/&quot;, which is not human-centered data. In</ns2:text>
+                        <ns2:region>
+                      <ns2:rectangle>
+                    <ns2:bottom>2993</ns2:bottom>
+                    <ns2:left>376</ns2:left>
+                    <ns2:right>2150</ns2:right>
+                    <ns2:top>2544</ns2:top>
+                      </ns2:rectangle>
+                        </ns2:region>
+                          </ns2:textBlock>
+                            </ns2:blocks>
+                              </ns2:page>
+                              <ns2:page number="3" filename="pdf.pdf" confidence="0.8480114">
+                            <ns2:blocks>
+                          <ns2:textBlock confidence="0.0">
+                        <ns2:text>NJRmL^jfca</ns2:text>
+                        <ns2:region>
+                      <ns2:rectangle>
+                    <ns2:bottom>436</ns2:bottom>
+                    <ns2:left>188</ns2:left>
+                    <ns2:right>2260</ns2:right>
+                    <ns2:top>100</ns2:top>
+                      </ns2:rectangle>
+                        </ns2:region>
+                          </ns2:textBlock>
+                          <ns2:textBlock confidence="0.90909094">
+                        <ns2:text>VIRTUAL REHLITV MODELING LHNGUHGE</ns2:text>
+                        <ns2:region>
+                      <ns2:rectangle>
+                    <ns2:bottom>464</ns2:bottom>
+                    <ns2:left>200</ns2:left>
+                    <ns2:right>1168</ns2:right>
+                    <ns2:top>382</ns2:top>
+                      </ns2:rectangle>
+                        </ns2:region>
+                          </ns2:textBlock>
+                          <ns2:textBlock confidence="1.0"><ns2:text>fact, I need to make an effort to remember it at all. So, while the World Wide Web provides a retrieval mechanism to complement the existing storage mechanism, it leaves a lot to be desired, particularly for human beings.</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>831</ns2:bottom>
+                      <ns2:left>376</ns2:left>
+                      <ns2:right>2139</ns2:right>
+                      <ns2:top>670</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="1.0"><ns2:text>Finally, we move to &quot;perceptualized&quot; Internetworks, where the data has been sensualized, that is, rendered sensually. If something is represented sensually, it is possible to make sense of it. VRML is an attempt (how successful, only time and effort will tell) to place humans at the center of the Internet, ordering its universe to our whims. In order to do that, the most important single element is a standard that defines the particularities of perception. Virtual Reality Modeling Language is that standard, designed to be a universal description language for multi-participant simulations.</ns2:text>
+                            <ns2:region>
+                          <ns2:rectangle>
+                        <ns2:bottom>1292</ns2:bottom>
+                        <ns2:left>375</ns2:left>
+                        <ns2:right>2159</ns2:right>
+                        <ns2:top>890</ns2:top>
+                          </ns2:rectangle>
+                            </ns2:region>
+                              </ns2:textBlock>
+                              <ns2:textBlock confidence="1.0"><ns2:text>These three phases, storage, retrieval, and perceptualization are analogous to the human process of consciousness, as expressed in terms of semantics and cognitive science. Events occur and are recorded (memory); inferences are drawn from memory (associations), and from sets of related events, maps of the universe are created (cognitive perception). What is important to remember is that the map is not the territory, and we should avoid becoming trapped in any single representation or world-view. Although we need to design to avoid disorientation, we should always push the envelope in the kinds of experience we can bring into manifestation!</ns2:text>
+                              <ns2:region>
+                            <ns2:rectangle>
+                          <ns2:bottom>1813</ns2:bottom>
+                          <ns2:left>376</ns2:left>
+                          <ns2:right>2168</ns2:right>
+                          <ns2:top>1351</ns2:top>
+                            </ns2:rectangle>
+                              </ns2:region>
+                                </ns2:textBlock>
+                                <ns2:textBlock confidence="1.0"><ns2:text>This document is the living proof of the success of a process that was committed to being open and flexible, responsive to the needs of a growing Web community. Rather than re¬ invent the wheel, we have adapted an existing specification (Open Inventor) as the basis from which our own work can grow, saving years of design work and perhaps many mistakes. Now our real work can begin; that of rendering our noospheric space.</ns2:text>
+                                <ns2:region>
+                              <ns2:rectangle>
+                            <ns2:bottom>2159</ns2:bottom>
+                            <ns2:left>376</ns2:left>
+                            <ns2:right>2161</ns2:right>
+                            <ns2:top>1869</ns2:top>
+                              </ns2:rectangle>
+                                </ns2:region>
+                                  </ns2:textBlock>
+                                  <ns2:textBlock confidence="0.875">
+                                <ns2:text>^History</ns2:text>
+                                <ns2:region>
+                              <ns2:rectangle>
+                            <ns2:bottom>2300</ns2:bottom>
+                            <ns2:left>381</ns2:left>
+                            <ns2:right>678</ns2:right>
+                            <ns2:top>2233</ns2:top>
+                              </ns2:rectangle>
+                                </ns2:region>
+                                  </ns2:textBlock>
+                                  <ns2:textBlock confidence="1.0"><ns2:text>VRML was conceived in the spring of 1994 at the first annual World Wide Web Conference in Geneva, Switzerland. Tim Berners-Lee and Dave Raggett organized a Birds-of-a-Feather (BOF) session to discuss Virtual Reality interfaces to the World Wide Web. Several BOF attendees described projects already underway to build three dimensional graphical visualization tools which interoperate with the Web. Attendees agreed on the need for these tools to have a common language for specifying 3D scene description and WWW hyperlinks -- an analog of HTML for virtual reality. The term Virtual Reality Markup Language (VRML) was coined, and the group resolved to begin specification work after the conference. The word Markup' was later changed to Modeling' to reflect the graphical nature of VRML.</ns2:text>
+                                  <ns2:region>
+                                <ns2:rectangle>
+                              <ns2:bottom>2934</ns2:bottom>
+                              <ns2:left>375</ns2:left>
+                              <ns2:right>2154</ns2:right>
+                              <ns2:top>2371</ns2:top>
+                                </ns2:rectangle>
+                                  </ns2:region>
+                                    </ns2:textBlock>
+                                      </ns2:blocks>
+                                        </ns2:page>
+                                        <ns2:page number="4" filename="pdf.pdf" confidence="0.7269837">
+                                      <ns2:blocks>
+                                    <ns2:textBlock confidence="0.0">
+                                  <ns2:text>NJRmL^jfca</ns2:text>
+                                  <ns2:region>
+                                <ns2:rectangle>
+                              <ns2:bottom>436</ns2:bottom>
+                              <ns2:left>188</ns2:left>
+                              <ns2:right>2260</ns2:right>
+                              <ns2:top>100</ns2:top>
+                                </ns2:rectangle>
+                                  </ns2:region>
+                                    </ns2:textBlock>
+                                    <ns2:textBlock confidence="0.90909094">
+                                  <ns2:text>VIRTUAL REHLITV MODELING LHNGUHGE</ns2:text>
+                                  <ns2:region>
+                                <ns2:rectangle>
+                              <ns2:bottom>464</ns2:bottom>
+                              <ns2:left>200</ns2:left>
+                              <ns2:right>1168</ns2:right>
+                              <ns2:top>382</ns2:top>
+                                </ns2:rectangle>
+                                  </ns2:region>
+                                    </ns2:textBlock>
+                                    <ns2:textBlock confidence="0.9988439"><ns2:text>Shortly after the Geneva BOF session, the www-vrml mailing list was created to discuss the development of a specification for the first version of VRML. The response to the list invitation was overwhelming: within a week, there were over a thousand members. After an initial settling-in period, list moderator Mark Pesce of Labyrinth Group announced his intention to have a draft version of the specification ready by the WWW Fall 1994 conference, a mere five months away. There was general agreement on the list that, while this schedule was aggressive, it was achievable provided that the requirements for the first version were not too ambitious and that VRML could be adapted from an existing solution. The list quickly agreed upon a set of requirements for the first version, and began a search for technologies which could be adapted to fit the needs of VRML.</ns2:text>
+                                    <ns2:region>
+                                  <ns2:rectangle>
+                                <ns2:bottom>1234</ns2:bottom>
+                                <ns2:left>376</ns2:left>
+                                <ns2:right>2160</ns2:right>
+                                <ns2:top>670</ns2:top>
+                                  </ns2:rectangle>
+                                    </ns2:region>
+                                      </ns2:textBlock>
+                                      <ns2:textBlock confidence="1.0"><ns2:text>The search for existing technologies turned up a several worthwhile candidates. After much deliberation the list came to a consensus: the Open Inventor ASCII File Format from Silicon Graphics, Inc. The Inventor File Format supports complete descriptions of 3D scenes with polygonally rendered objects, lighting, materials, ambient properties and realism effects. A subset of the Inventor File Format, with extensions to support networking, forms the basis of VRML. Gavin Bell of Silicon Graphics has adapted the Inventor File Format for VRML, with design input from the mailing list. SGI has publicly stated that the file format is available for use in the open market, and have contributed a file format parser into the public domain to bootstrap VRML viewer development.</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>1809</ns2:bottom>
+                                  <ns2:left>377</ns2:left>
+                                  <ns2:right>2170</ns2:right>
+                                  <ns2:top>1304</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                          </ns2:blocks>
+                                            </ns2:page>
+                                            <ns2:page number="5" filename="pdf.pdf" confidence="0.86222935">
+                                          <ns2:blocks>
+                                        <ns2:textBlock confidence="0.0">
+                                      <ns2:text>NJRmL^jfca</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>436</ns2:bottom>
+                                  <ns2:left>188</ns2:left>
+                                  <ns2:right>2260</ns2:right>
+                                  <ns2:top>100</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="0.90909094">
+                                      <ns2:text>VIRTUAL REHLITV MODELING LHNGUHGE</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>464</ns2:bottom>
+                                  <ns2:left>200</ns2:left>
+                                  <ns2:right>1168</ns2:right>
+                                  <ns2:top>382</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="1.0">
+                                      <ns2:text>A Graphical Representation of Inverse VRML Uptake</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>725</ns2:bottom>
+                                  <ns2:left>357</ns2:left>
+                                  <ns2:right>1503</ns2:right>
+                                  <ns2:top>677</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="1.0">
+                                      <ns2:text>90</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>804</ns2:bottom>
+                                  <ns2:left>1370</ns2:left>
+                                  <ns2:right>1399</ns2:right>
+                                  <ns2:top>784</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="1.0">
+                                      <ns2:text>140</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>846</ns2:bottom>
+                                  <ns2:left>333</ns2:left>
+                                  <ns2:right>374</ns2:right>
+                                  <ns2:top>826</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="0.9166667">
+                                      <ns2:text>	Programmers</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>856</ns2:bottom>
+                                  <ns2:left>910</ns2:left>
+                                  <ns2:right>1157</ns2:right>
+                                  <ns2:top>829</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="0.9444444">
+                                      <ns2:text>	Technical Writers</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>895</ns2:bottom>
+                                  <ns2:left>910</ns2:left>
+                                  <ns2:right>1204</ns2:right>
+                                  <ns2:top>874</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="0.875">
+                                      <ns2:text>	Artists</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>858</ns2:bottom>
+                                  <ns2:left>1976</ns2:left>
+                                  <ns2:right>2124</ns2:right>
+                                  <ns2:top>836</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="0.9">
+                                      <ns2:text>	Musicians</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>902</ns2:bottom>
+                                  <ns2:left>1976</ns2:left>
+                                  <ns2:right>2171</ns2:right>
+                                  <ns2:top>881</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="0.9166667">
+                                      <ns2:text>	Politicians</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>947</ns2:bottom>
+                                  <ns2:left>1976</ns2:left>
+                                  <ns2:right>2172</ns2:right>
+                                  <ns2:top>926</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="0.8888889">
+                                      <ns2:text>	Dentists</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>992</ns2:bottom>
+                                  <ns2:left>1976</ns2:left>
+                                  <ns2:right>2147</ns2:right>
+                                  <ns2:top>971</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="1.0">
+                                      <ns2:text>80</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>879</ns2:bottom>
+                                  <ns2:left>1370</ns2:left>
+                                  <ns2:right>1399</ns2:right>
+                                  <ns2:top>859</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="1.0">
+                                      <ns2:text>120</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>935</ns2:bottom>
+                                  <ns2:left>333</ns2:left>
+                                  <ns2:right>374</ns2:right>
+                                  <ns2:top>915</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="1.0">
+                                      <ns2:text>QA</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>941</ns2:bottom>
+                                  <ns2:left>990</ns2:left>
+                                  <ns2:right>1029</ns2:right>
+                                  <ns2:top>919</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="1.0">
+                                      <ns2:text>70</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>954</ns2:bottom>
+                                  <ns2:left>1370</ns2:left>
+                                  <ns2:right>1399</ns2:right>
+                                  <ns2:top>934</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="0.8333333">
+                                      <ns2:text>	Other</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>985</ns2:bottom>
+                                  <ns2:left>910</ns2:left>
+                                  <ns2:right>1058</ns2:right>
+                                  <ns2:top>964</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="1.0">
+                                      <ns2:text>100</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>1025</ns2:bottom>
+                                  <ns2:left>333</ns2:left>
+                                  <ns2:right>374</ns2:right>
+                                  <ns2:top>1005</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="0.75">
+                                      <ns2:text>® 60</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>1029</ns2:bottom>
+                                  <ns2:left>1324</ns2:left>
+                                  <ns2:right>1399</ns2:right>
+                                  <ns2:top>1009</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="0.0">
+                                      <ns2:text>O)</ns2:text>
+                                      <ns2:region>
+                                    <ns2:rectangle>
+                                  <ns2:bottom>1043</ns2:bottom>
+                                  <ns2:left>1324</ns2:left>
+                                  <ns2:right>1345</ns2:right>
+                                  <ns2:top>1030</ns2:top>
+                                    </ns2:rectangle>
+                                      </ns2:region>
+                                        </ns2:textBlock>
+                                        <ns2:textBlock confidence="0.0"><ns2:text>a&gt; u&gt;</ns2:text>
+                                        <ns2:region>
+                                      <ns2:rectangle>
+                                    <ns2:bottom>1045</ns2:bottom>
+                                    <ns2:left>289</ns2:left>
+                                    <ns2:right>310</ns2:right>
+                                    <ns2:top>1015</ns2:top>
+                                      </ns2:rectangle>
+                                        </ns2:region>
+                                          </ns2:textBlock>
+                                          <ns2:textBlock confidence="0.0"><ns2:text>en &lt;/)</ns2:text>
+                                          <ns2:region>
+                                        <ns2:rectangle>
+                                      <ns2:bottom>1075</ns2:bottom>
+                                      <ns2:left>1323</ns2:left>
+                                      <ns2:right>1339</ns2:right>
+                                      <ns2:top>1046</ns2:top>
+                                        </ns2:rectangle>
+                                          </ns2:region>
+                                            </ns2:textBlock>
+                                            <ns2:textBlock confidence="0.0"><ns2:text>&lt;/) 3</ns2:text>
+                                            <ns2:region>
+                                          <ns2:rectangle>
+                                        <ns2:bottom>1092</ns2:bottom>
+                                        <ns2:left>289</ns2:left>
+                                        <ns2:right>304</ns2:right>
+                                        <ns2:top>1063</ns2:top>
+                                          </ns2:rectangle>
+                                            </ns2:region>
+                                              </ns2:textBlock>
+                                              <ns2:textBlock confidence="0.75">
+                                            <ns2:text>- 50</ns2:text>
+                                            <ns2:region>
+                                          <ns2:rectangle>
+                                        <ns2:bottom>1105</ns2:bottom>
+                                        <ns2:left>1324</ns2:left>
+                                        <ns2:right>1399</ns2:right>
+                                        <ns2:top>1084</ns2:top>
+                                          </ns2:rectangle>
+                                            </ns2:region>
+                                              </ns2:textBlock>
+                                              <ns2:textBlock confidence="1.0">
+                                            <ns2:text>80</ns2:text>
+                                            <ns2:region>
+                                          <ns2:rectangle>
+                                        <ns2:bottom>1114</ns2:bottom>
+                                        <ns2:left>346</ns2:left>
+                                        <ns2:right>374</ns2:right>
+                                        <ns2:top>1094</ns2:top>
+                                          </ns2:rectangle>
+                                            </ns2:region>
+                                              </ns2:textBlock>
+                                              <ns2:textBlock confidence="0.0"><ns2:text>&lt;u &lt;/)</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1133</ns2:bottom>
+                                          <ns2:left>289</ns2:left>
+                                          <ns2:right>304</ns2:right>
+                                          <ns2:top>1103</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="0.0">
+                                              <ns2:text>g)</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1133</ns2:bottom>
+                                          <ns2:left>1324</ns2:left>
+                                          <ns2:right>1345</ns2:right>
+                                          <ns2:top>1103</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="0.5">
+                                              <ns2:text>0)</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1158</ns2:bottom>
+                                          <ns2:left>289</ns2:left>
+                                          <ns2:right>304</ns2:right>
+                                          <ns2:top>1145</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>40</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1179</ns2:bottom>
+                                          <ns2:left>1370</ns2:left>
+                                          <ns2:right>1399</ns2:right>
+                                          <ns2:top>1159</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>60</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1203</ns2:bottom>
+                                          <ns2:left>346</ns2:left>
+                                          <ns2:right>374</ns2:right>
+                                          <ns2:top>1183</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="0.0">
+                                              <ns2:text>5</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1208</ns2:bottom>
+                                          <ns2:left>1324</ns2:left>
+                                          <ns2:right>1340</ns2:right>
+                                          <ns2:top>1183</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>&gt;</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1223</ns2:bottom>
+                                          <ns2:left>1324</ns2:left>
+                                          <ns2:right>1339</ns2:right>
+                                          <ns2:top>1209</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>30</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1254</ns2:bottom>
+                                          <ns2:left>1370</ns2:left>
+                                          <ns2:right>1399</ns2:right>
+                                          <ns2:top>1234</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>40</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1292</ns2:bottom>
+                                          <ns2:left>346</ns2:left>
+                                          <ns2:right>374</ns2:right>
+                                          <ns2:top>1272</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>20</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1329</ns2:bottom>
+                                          <ns2:left>1370</ns2:left>
+                                          <ns2:right>1399</ns2:right>
+                                          <ns2:top>1309</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>20</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1381</ns2:bottom>
+                                          <ns2:left>346</ns2:left>
+                                          <ns2:right>374</ns2:right>
+                                          <ns2:top>1361</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>10</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1404</ns2:bottom>
+                                          <ns2:left>1373</ns2:left>
+                                          <ns2:right>1399</ns2:right>
+                                          <ns2:top>1384</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>0</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1470</ns2:bottom>
+                                          <ns2:left>361</ns2:left>
+                                          <ns2:right>374</ns2:right>
+                                          <ns2:top>1450</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>0</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1479</ns2:bottom>
+                                          <ns2:left>1386</ns2:left>
+                                          <ns2:right>1399</ns2:right>
+                                          <ns2:top>1459</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="0.93333334">
+                                              <ns2:text>ooooooooooooooo</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1498</ns2:bottom>
+                                          <ns2:left>385</ns2:left>
+                                          <ns2:right>1239</ns2:right>
+                                          <ns2:top>1484</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="0.35714287">
+                                              <ns2:text>•«— CMOQ^LOCQh-COOO-'— CMCO^</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1514</ns2:bottom>
+                                          <ns2:left>445</ns2:left>
+                                          <ns2:right>1240</ns2:right>
+                                          <ns2:top>1499</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="0.0">
+                                              <ns2:text>§</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1522</ns2:bottom>
+                                          <ns2:left>1410</ns2:left>
+                                          <ns2:right>1429</ns2:right>
+                                          <ns2:top>1494</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="0.0">
+                                              <ns2:text>§</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1523</ns2:bottom>
+                                          <ns2:left>1498</ns2:left>
+                                          <ns2:right>1519</ns2:right>
+                                          <ns2:top>1493</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>o</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1507</ns2:bottom>
+                                          <ns2:left>1587</ns2:left>
+                                          <ns2:right>1608</ns2:right>
+                                          <ns2:top>1493</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="0.0">
+                                              <ns2:text>§</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1522</ns2:bottom>
+                                          <ns2:left>1677</ns2:left>
+                                          <ns2:right>1696</ns2:right>
+                                          <ns2:top>1494</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>s</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1523</ns2:bottom>
+                                          <ns2:left>1765</ns2:left>
+                                          <ns2:right>1786</ns2:right>
+                                          <ns2:top>1493</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>o</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1507</ns2:bottom>
+                                          <ns2:left>1855</ns2:left>
+                                          <ns2:right>1876</ns2:right>
+                                          <ns2:top>1493</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>o</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1507</ns2:bottom>
+                                          <ns2:left>1945</ns2:left>
+                                          <ns2:right>1964</ns2:right>
+                                          <ns2:top>1493</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="0.0">
+                                              <ns2:text>s</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1523</ns2:bottom>
+                                          <ns2:left>2123</ns2:left>
+                                          <ns2:right>2143</ns2:right>
+                                          <ns2:top>1494</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>o</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1507</ns2:bottom>
+                                          <ns2:left>2212</ns2:left>
+                                          <ns2:right>2232</ns2:right>
+                                          <ns2:top>1494</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>Days after download</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1589</ns2:bottom>
+                                          <ns2:left>700</ns2:left>
+                                          <ns2:right>970</ns2:right>
+                                          <ns2:top>1562</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="1.0">
+                                              <ns2:text>Days after download</ns2:text>
+                                              <ns2:region>
+                                            <ns2:rectangle>
+                                          <ns2:bottom>1589</ns2:bottom>
+                                          <ns2:left>1644</ns2:left>
+                                          <ns2:right>1914</ns2:right>
+                                          <ns2:top>1562</ns2:top>
+                                            </ns2:rectangle>
+                                              </ns2:region>
+                                                </ns2:textBlock>
+                                                <ns2:textBlock confidence="0.9929578"><ns2:text>Change the number in red below to adjust for download rate and/or bandwidth. | 1 |The number 1 represents an engineer with an &quot;average&quot; cube *</ns2:text>
+                                                <ns2:region>
+                                              <ns2:rectangle>
+                                            <ns2:bottom>1785</ns2:bottom>
+                                            <ns2:left>343</ns2:left>
+                                            <ns2:right>1568</ns2:right>
+                                            <ns2:top>1662</ns2:top>
+                                              </ns2:rectangle>
+                                                </ns2:region>
+                                                  </ns2:textBlock>
+                                                  <ns2:textBlock confidence="0.6666667">
+                                                <ns2:text>• E</ns2:text>
+                                                <ns2:region>
+                                              <ns2:rectangle>
+                                            <ns2:bottom>2228</ns2:bottom>
+                                            <ns2:left>830</ns2:left>
+                                            <ns2:right>934</ns2:right>
+                                            <ns2:top>2160</ns2:top>
+                                              </ns2:rectangle>
+                                                </ns2:region>
+                                                  </ns2:textBlock>
+                                                  <ns2:textBlock confidence="1.0">
+                                                <ns2:text>ANx</ns2:text>
+                                                <ns2:region>
+                                              <ns2:rectangle>
+                                            <ns2:bottom>2192</ns2:bottom>
+                                            <ns2:left>934</ns2:left>
+                                            <ns2:right>1015</ns2:right>
+                                            <ns2:top>2161</ns2:top>
+                                              </ns2:rectangle>
+                                                </ns2:region>
+                                                  </ns2:textBlock>
+                                                  <ns2:textBlock confidence="1.0">
+                                                <ns2:text>EANx</ns2:text>
+                                                <ns2:region>
+                                              <ns2:rectangle>
+                                            <ns2:bottom>2192</ns2:bottom>
+                                            <ns2:left>1054</ns2:left>
+                                            <ns2:right>1162</ns2:right>
+                                            <ns2:top>2161</ns2:top>
+                                              </ns2:rectangle>
+                                                </ns2:region>
+                                                  </ns2:textBlock>
+                                                  <ns2:textBlock confidence="0.6666667">
+                                                <ns2:text>fsw</ns2:text>
+                                                <ns2:region>
+                                              <ns2:rectangle>
+                                            <ns2:bottom>2220</ns2:bottom>
+                                            <ns2:left>622</ns2:left>
+                                            <ns2:right>692</ns2:right>
+                                            <ns2:top>2188</ns2:top>
+                                              </ns2:rectangle>
+                                                </ns2:region>
+                                                  </ns2:textBlock>
+                                                  <ns2:textBlock confidence="1.0">
+                                                <ns2:text>Air</ns2:text>
+                                                <ns2:region>
+                                              <ns2:rectangle>
+                                            <ns2:bottom>2219</ns2:bottom>
+                                            <ns2:left>780</ns2:left>
+                                            <ns2:right>837</ns2:right>
+                                            <ns2:top>2188</ns2:top>
+                                              </ns2:rectangle>
+                                                </ns2:region>
+                                                  </ns2:textBlock>
+                                                  <ns2:textBlock confidence="1.0">
+                                                <ns2:text>32%</ns2:text>
+                                                <ns2:region>
+                                              <ns2:rectangle>
+                                            <ns2:bottom>2247</ns2:bottom>
+                                            <ns2:left>921</ns2:left>
+                                            <ns2:right>1002</ns2:right>
+                                            <ns2:top>2216</ns2:top>
+                                              </ns2:rectangle>
+                                                </ns2:region>
+                                                  </ns2:textBlock>
+                                                  <ns2:textBlock confidence="1.0">
+                                                <ns2:text>36%</ns2:text>
+                                                <ns2:region>
+                                              <ns2:rectangle>
+                                            <ns2:bottom>2247</ns2:bottom>
+                                            <ns2:left>1067</ns2:left>
+                                            <ns2:right>1148</ns2:right>
+                                            <ns2:top>2216</ns2:top>
+                                              </ns2:rectangle>
+                                                </ns2:region>
+                                                  </ns2:textBlock>
+                                                  <ns2:textBlock confidence="1.0">
+                                                <ns2:text>CF Min</ns2:text>
+                                                <ns2:region>
+                                              <ns2:rectangle>
+                                            <ns2:bottom>2248</ns2:bottom>
+                                            <ns2:left>382</ns2:left>
+                                            <ns2:right>552</ns2:right>
+                                            <ns2:top>2222</ns2:top>
+                                              </ns2:rectangle>
+                                                </ns2:region>
+                                                  </ns2:textBlock>
+                                                  <ns2:textBlock confidence="1.0"><ns2:text>80.0 149.12 61.4 114.43</ns2:text>
+                                                  <ns2:region>
+                                                <ns2:rectangle>
+                                              <ns2:bottom>2340</ns2:bottom>
+                                              <ns2:left>385</ns2:left>
+                                              <ns2:right>579</ns2:right>
+                                              <ns2:top>2271</ns2:top>
+                                                </ns2:rectangle>
+                                                  </ns2:region>
+                                                    </ns2:textBlock>
+                                                    <ns2:textBlock confidence="1.0">
+                                                  <ns2:text>49.8	92.846</ns2:text>
+                                                  <ns2:region>
+                                                <ns2:rectangle>
+                                              <ns2:bottom>2394</ns2:bottom>
+                                              <ns2:left>386</ns2:left>
+                                              <ns2:right>580</ns2:right>
+                                              <ns2:top>2350</ns2:top>
+                                                </ns2:rectangle>
+                                                  </ns2:region>
+                                                    </ns2:textBlock>
+                                                    <ns2:textBlock confidence="1.0"><ns2:text>41.9	78.102 36.2 67.402 31.8 59.275</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2516</ns2:bottom>
+                                                <ns2:left>386</ns2:left>
+                                                <ns2:right>579</ns2:right>
+                                                <ns2:top>2403</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2296</ns2:bottom>
+                                                <ns2:left>701</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2271</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>10</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2340</ns2:bottom>
+                                                <ns2:left>683</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2315</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>20</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2384</ns2:bottom>
+                                                <ns2:left>682</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2359</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>30</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2428</ns2:bottom>
+                                                <ns2:left>682</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2403</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>180</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2428</ns2:bottom>
+                                                <ns2:left>822</ns2:left>
+                                                <ns2:right>877</ns2:right>
+                                                <ns2:top>2403</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>40</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2472</ns2:bottom>
+                                                <ns2:left>682</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2447</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>120</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2472</ns2:bottom>
+                                                <ns2:left>822</ns2:left>
+                                                <ns2:right>877</ns2:right>
+                                                <ns2:top>2447</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>50</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2516</ns2:bottom>
+                                                <ns2:left>682</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2491</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>80.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2516</ns2:bottom>
+                                                <ns2:left>812</ns2:left>
+                                                <ns2:right>877</ns2:right>
+                                                <ns2:top>2491</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>147.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2516</ns2:bottom>
+                                                <ns2:left>941</ns2:left>
+                                                <ns2:right>1025</ns2:right>
+                                                <ns2:top>2491</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>192.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2516</ns2:bottom>
+                                                <ns2:left>1086</ns2:left>
+                                                <ns2:right>1170</ns2:right>
+                                                <ns2:top>2491</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>28.4</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2560</ns2:bottom>
+                                                <ns2:left>386</ns2:left>
+                                                <ns2:right>452</ns2:right>
+                                                <ns2:top>2535</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>52.9</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2560</ns2:bottom>
+                                                <ns2:left>514</ns2:left>
+                                                <ns2:right>578</ns2:right>
+                                                <ns2:top>2535</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>60</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2560</ns2:bottom>
+                                                <ns2:left>682</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2535</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>57.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2560</ns2:bottom>
+                                                <ns2:left>812</ns2:left>
+                                                <ns2:right>877</ns2:right>
+                                                <ns2:top>2535</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>92.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2560</ns2:bottom>
+                                                <ns2:left>959</ns2:left>
+                                                <ns2:right>1025</ns2:right>
+                                                <ns2:top>2535</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>123.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2560</ns2:bottom>
+                                                <ns2:left>1086</ns2:left>
+                                                <ns2:right>1170</ns2:right>
+                                                <ns2:top>2535</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>25.6 47.774</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2604</ns2:bottom>
+                                                <ns2:left>386</ns2:left>
+                                                <ns2:right>580</ns2:right>
+                                                <ns2:top>2579</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>23.4	43.543</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2648</ns2:bottom>
+                                                <ns2:left>386</ns2:left>
+                                                <ns2:right>579</ns2:right>
+                                                <ns2:top>2623</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>21.5	40.001</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2692</ns2:bottom>
+                                                <ns2:left>386</ns2:left>
+                                                <ns2:right>574</ns2:right>
+                                                <ns2:top>2667</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>70</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2604</ns2:bottom>
+                                                <ns2:left>682</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2579</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>40.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2604</ns2:bottom>
+                                                <ns2:left>812</ns2:left>
+                                                <ns2:right>877</ns2:right>
+                                                <ns2:top>2579</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>65.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2604</ns2:bottom>
+                                                <ns2:left>959</ns2:left>
+                                                <ns2:right>1025</ns2:right>
+                                                <ns2:top>2579</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>79.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2604</ns2:bottom>
+                                                <ns2:left>1104</ns2:left>
+                                                <ns2:right>1170</ns2:right>
+                                                <ns2:top>2579</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>80</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2648</ns2:bottom>
+                                                <ns2:left>682</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2623</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>30.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2648</ns2:bottom>
+                                                <ns2:left>812</ns2:left>
+                                                <ns2:right>877</ns2:right>
+                                                <ns2:top>2623</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>49.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2648</ns2:bottom>
+                                                <ns2:left>959</ns2:left>
+                                                <ns2:right>1025</ns2:right>
+                                                <ns2:top>2623</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>59.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2648</ns2:bottom>
+                                                <ns2:left>1104</ns2:left>
+                                                <ns2:right>1170</ns2:right>
+                                                <ns2:top>2623</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>90</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2692</ns2:bottom>
+                                                <ns2:left>682</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2667</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>24.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2692</ns2:bottom>
+                                                <ns2:left>812</ns2:left>
+                                                <ns2:right>877</ns2:right>
+                                                <ns2:top>2667</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>37.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2692</ns2:bottom>
+                                                <ns2:left>959</ns2:left>
+                                                <ns2:right>1025</ns2:right>
+                                                <ns2:top>2667</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>45.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2692</ns2:bottom>
+                                                <ns2:left>1104</ns2:left>
+                                                <ns2:right>1170</ns2:right>
+                                                <ns2:top>2667</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>19.9</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2736</ns2:bottom>
+                                                <ns2:left>388</ns2:left>
+                                                <ns2:right>450</ns2:right>
+                                                <ns2:top>2711</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>37</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2736</ns2:bottom>
+                                                <ns2:left>543</ns2:left>
+                                                <ns2:right>579</ns2:right>
+                                                <ns2:top>2711</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>100</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2736</ns2:bottom>
+                                                <ns2:left>663</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2711</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>19.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2736</ns2:bottom>
+                                                <ns2:left>813</ns2:left>
+                                                <ns2:right>877</ns2:right>
+                                                <ns2:top>2711</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>30.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2736</ns2:bottom>
+                                                <ns2:left>959</ns2:left>
+                                                <ns2:right>1025</ns2:right>
+                                                <ns2:top>2711</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>35.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2736</ns2:bottom>
+                                                <ns2:left>1104</ns2:left>
+                                                <ns2:right>1170</ns2:right>
+                                                <ns2:top>2711</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>18.5	34.409</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2780</ns2:bottom>
+                                                <ns2:left>388</ns2:left>
+                                                <ns2:right>578</ns2:right>
+                                                <ns2:top>2755</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>17.3	32.154</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2824</ns2:bottom>
+                                                <ns2:left>388</ns2:left>
+                                                <ns2:right>580</ns2:right>
+                                                <ns2:top>2799</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>16.2	30.178</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2868</ns2:bottom>
+                                                <ns2:left>388</ns2:left>
+                                                <ns2:right>579</ns2:right>
+                                                <ns2:top>2843</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>15.1	28.202</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2911</ns2:bottom>
+                                                <ns2:left>388</ns2:left>
+                                                <ns2:right>579</ns2:right>
+                                                <ns2:top>2886</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>110</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2780</ns2:bottom>
+                                                <ns2:left>663</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2755</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>16.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2780</ns2:bottom>
+                                                <ns2:left>813</ns2:left>
+                                                <ns2:right>877</ns2:right>
+                                                <ns2:top>2755</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>25.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2780</ns2:bottom>
+                                                <ns2:left>959</ns2:left>
+                                                <ns2:right>1025</ns2:right>
+                                                <ns2:top>2755</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>29.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2780</ns2:bottom>
+                                                <ns2:left>1104</ns2:left>
+                                                <ns2:right>1170</ns2:right>
+                                                <ns2:top>2755</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="0.0">
+                                                    <ns2:text>L</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2932</ns2:bottom>
+                                                <ns2:left>1116</ns2:left>
+                                                <ns2:right>1176</ns2:right>
+                                                <ns2:top>2800</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="0.6666667">
+                                                    <ns2:text>n/i</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2823</ns2:bottom>
+                                                <ns2:left>1084</ns2:left>
+                                                <ns2:right>1119</ns2:right>
+                                                <ns2:top>2797</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>120</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2824</ns2:bottom>
+                                                <ns2:left>663</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2799</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>13.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2824</ns2:bottom>
+                                                <ns2:left>813</ns2:left>
+                                                <ns2:right>877</ns2:right>
+                                                <ns2:top>2799</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>20.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2824</ns2:bottom>
+                                                <ns2:left>959</ns2:left>
+                                                <ns2:right>1025</ns2:right>
+                                                <ns2:top>2799</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>n/</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2867</ns2:bottom>
+                                                <ns2:left>1084</ns2:left>
+                                                <ns2:right>1113</ns2:right>
+                                                <ns2:top>2841</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>130</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2868</ns2:bottom>
+                                                <ns2:left>663</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2843</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>10.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2868</ns2:bottom>
+                                                <ns2:left>813</ns2:left>
+                                                <ns2:right>877</ns2:right>
+                                                <ns2:top>2843</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>17.0</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2868</ns2:bottom>
+                                                <ns2:left>960</ns2:left>
+                                                <ns2:right>1025</ns2:right>
+                                                <ns2:top>2843</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>n/</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2907</ns2:bottom>
+                                                <ns2:left>1084</ns2:left>
+                                                <ns2:right>1113</ns2:right>
+                                                <ns2:top>2881</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                      <ns2:textBlock confidence="1.0">
+                                                    <ns2:text>140</ns2:text>
+                                                    <ns2:region>
+                                                  <ns2:rectangle>
+                                                <ns2:bottom>2911</ns2:bottom>
+                                                <ns2:left>663</ns2:left>
+                                                <ns2:right>718</ns2:right>
+                                                <ns2:top>2886</ns2:top>
+                                                  </ns2:rectangle>
+                                                    </ns2:region>
+                                                      </ns2:textBlock>
+                                                        </ns2:blocks>
+                                                          </ns2:page>
+                                                            </ns2:pages>

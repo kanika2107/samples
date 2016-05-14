@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:pages xmlns:ns2="http://schema.intuit.com/data-extraction/3.0/data-extraction" confidence="0.9707998">
+  <ns2:page number="1" filename="document.pdf" confidence="0.9707998">
+    <ns2:blocks>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>QB Power hour</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>156</ns2:bottom>
+            <ns2:left>126</ns2:left>
+            <ns2:right>428</ns2:right>
+            <ns2:top>124</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="0.8965517"><ns2:text>9581776884 knkmidha@gmail.com</ns2:text>
+      <ns2:region>
+        <ns2:rectangle>
+          <ns2:bottom>305</ns2:bottom>
+          <ns2:left>126</ns2:left>
+          <ns2:right>533</ns2:right>
+          <ns2:top>210</ns2:top>
+        </ns2:rectangle>
+      </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+      <ns2:text>INVOICE 1001</ns2:text>
+      <ns2:region>
+        <ns2:rectangle>
+          <ns2:bottom>534</ns2:bottom>
+          <ns2:left>1553</ns2:left>
+          <ns2:right>1926</ns2:right>
+          <ns2:top>490</ns2:top>
+        </ns2:rectangle>
+      </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+      <ns2:text>INVOICE TO</ns2:text>
+      <ns2:region>
+        <ns2:rectangle>
+          <ns2:bottom>574</ns2:bottom>
+          <ns2:left>128</ns2:left>
+          <ns2:right>316</ns2:right>
+          <ns2:top>550</ns2:top>
+        </ns2:rectangle>
+      </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="0.7777778"><ns2:text>Sahil Midha Intuit</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>670</ns2:bottom>
+        <ns2:left>127</ns2:left>
+        <ns2:right>340</ns2:right>
+        <ns2:top>592</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="0.8666667">
+    <ns2:text>DATE 11/05/2016</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>666</ns2:bottom>
+        <ns2:left>1552</ns2:left>
+        <ns2:right>1878</ns2:right>
+        <ns2:top>636</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="0.875">
+    <ns2:text>TERMS Net 15 DUE DATE 26/05/2016</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>803</ns2:bottom>
+        <ns2:left>1550</ns2:left>
+        <ns2:right>2349</ns2:right>
+        <ns2:top>773</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>NO</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1092</ns2:bottom>
+        <ns2:left>153</ns2:left>
+        <ns2:right>198</ns2:right>
+        <ns2:top>1068</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>ACTIVITY</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1092</ns2:bottom>
+        <ns2:left>329</ns2:left>
+        <ns2:right>477</ns2:right>
+        <ns2:top>1068</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>QTY</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1093</ns2:bottom>
+        <ns2:left>1661</ns2:left>
+        <ns2:right>1726</ns2:right>
+        <ns2:top>1068</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>RATE</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1092</ns2:bottom>
+        <ns2:left>2057</ns2:left>
+        <ns2:right>2140</ns2:right>
+        <ns2:top>1068</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>AMOUNT</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1092</ns2:bottom>
+        <ns2:left>2317</ns2:left>
+        <ns2:right>2461</ns2:right>
+        <ns2:top>1068</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>chocolates</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1179</ns2:bottom>
+        <ns2:left>331</ns2:left>
+        <ns2:right>544</ns2:right>
+        <ns2:top>1149</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>1</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1192</ns2:bottom>
+        <ns2:left>158</ns2:left>
+        <ns2:right>169</ns2:right>
+        <ns2:top>1162</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>1</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1192</ns2:bottom>
+        <ns2:left>1708</ns2:left>
+        <ns2:right>1719</ns2:right>
+        <ns2:top>1162</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>200.00</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1192</ns2:bottom>
+        <ns2:left>2016</ns2:left>
+        <ns2:right>2140</ns2:right>
+        <ns2:top>1162</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>200.00</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1192</ns2:bottom>
+        <ns2:left>2335</ns2:left>
+        <ns2:right>2459</ns2:right>
+        <ns2:top>1162</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>please pay before due-date</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1284</ns2:bottom>
+        <ns2:left>150</ns2:left>
+        <ns2:right>554</ns2:right>
+        <ns2:top>1253</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>TOTAL DUE</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1490</ns2:bottom>
+        <ns2:left>1507</ns2:left>
+        <ns2:right>1738</ns2:right>
+        <ns2:top>1460</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Rs200.00</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1498</ns2:bottom>
+        <ns2:left>2256</ns2:left>
+        <ns2:right>2464</ns2:right>
+        <ns2:top>1462</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+</ns2:blocks>
+  </ns2:page>
+    </ns2:pages>

@@ -1,0 +1,363 @@
+<ns2:pages xmlns:ns2="http://schema.intuit.com/data-extraction/3.0/data-extraction" confidence="0.9979798">
+  <ns2:page number="1" filename="sample-invoice-2-trading.pdf" confidence="0.9979798">
+    <ns2:blocks>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>ABC Company Pty Ltd</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>316</ns2:bottom>
+            <ns2:left>175</ns2:left>
+            <ns2:right>969</ns2:right>
+            <ns2:top>245</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>123 Burke Street, Melbourne 3000, Australia</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>356</ns2:bottom>
+            <ns2:left>179</ns2:left>
+            <ns2:right>912</ns2:right>
+            <ns2:top>323</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>Tel : 1234-5678, Fax : 1234-5679, Email : sales@abc-company.com</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>408</ns2:bottom>
+            <ns2:left>176</ns2:left>
+            <ns2:right>1307</ns2:right>
+            <ns2:top>373</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>TAX INVOICE</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>422</ns2:bottom>
+            <ns2:left>1714</ns2:left>
+            <ns2:right>2160</ns2:right>
+            <ns2:top>369</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>Web Site : www.abc-company.com</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>458</ns2:bottom>
+            <ns2:left>175</ns2:left>
+            <ns2:right>754</ns2:right>
+            <ns2:top>423</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>Tax Reg No : 8765-1234-987</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>483</ns2:bottom>
+            <ns2:left>1713</ns2:left>
+            <ns2:right>2195</ns2:right>
+            <ns2:top>448</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>Invoice No. IN10000</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>571</ns2:bottom>
+            <ns2:left>1716</ns2:left>
+            <ns2:right>2133</ns2:right>
+            <ns2:top>537</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>Sold To</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>608</ns2:bottom>
+            <ns2:left>177</ns2:left>
+            <ns2:right>287</ns2:right>
+            <ns2:top>584</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>Jason's Trading Pty Ltd</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>675</ns2:bottom>
+            <ns2:left>176</ns2:left>
+            <ns2:right>642</ns2:right>
+            <ns2:top>637</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0"><ns2:text>765 Foster Street Dandenong Vic 3400 Australia</ns2:text>
+      <ns2:region>
+        <ns2:rectangle>
+          <ns2:bottom>879</ns2:bottom>
+          <ns2:left>175</ns2:left>
+          <ns2:right>495</ns2:right>
+          <ns2:top>699</ns2:top>
+        </ns2:rectangle>
+      </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0"><ns2:text>Date Our Ref. Cust Ref. Terms</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>854</ns2:bottom>
+        <ns2:left>1713</ns2:left>
+        <ns2:right>1882</ns2:right>
+        <ns2:top>637</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>19/08/2005</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>667</ns2:bottom>
+        <ns2:left>1966</ns2:left>
+        <ns2:right>2168</ns2:right>
+        <ns2:top>637</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>COD</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>854</ns2:bottom>
+        <ns2:left>1964</ns2:left>
+        <ns2:right>2053</ns2:right>
+        <ns2:top>824</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="0.93333334">
+    <ns2:text>S/No Product ID</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1083</ns2:bottom>
+        <ns2:left>176</ns2:left>
+        <ns2:right>495</ns2:right>
+        <ns2:top>1053</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Description</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1091</ns2:bottom>
+        <ns2:left>624</ns2:left>
+        <ns2:right>848</ns2:right>
+        <ns2:top>1053</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Qty</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1091</ns2:bottom>
+        <ns2:left>1614</ns2:left>
+        <ns2:right>1681</ns2:right>
+        <ns2:top>1053</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Unit Price</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1093</ns2:bottom>
+        <ns2:left>1800</ns2:left>
+        <ns2:right>1994</ns2:right>
+        <ns2:top>1043</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Amount</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1083</ns2:bottom>
+        <ns2:left>2154</ns2:left>
+        <ns2:right>2310</ns2:right>
+        <ns2:top>1053</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0"><ns2:text>$4.50 $8.80</ns2:text>
+  <ns2:region>
+    <ns2:rectangle>
+      <ns2:bottom>1259</ns2:bottom>
+      <ns2:left>1896</ns2:left>
+      <ns2:right>1998</ns2:right>
+      <ns2:top>1132</ns2:top>
+    </ns2:rectangle>
+  </ns2:region>
+</ns2:textBlock>
+<ns2:textBlock confidence="1.0"><ns2:text>$45.00 $88.00</ns2:text>
+<ns2:region>
+  <ns2:rectangle>
+    <ns2:bottom>1259</ns2:bottom>
+    <ns2:left>2188</ns2:left>
+    <ns2:right>2313</ns2:right>
+    <ns2:top>1132</ns2:top>
+  </ns2:rectangle>
+</ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+<ns2:text>1 P876-123</ns2:text>
+<ns2:region>
+  <ns2:rectangle>
+    <ns2:bottom>1171</ns2:bottom>
+    <ns2:left>179</ns2:left>
+    <ns2:right>465</ns2:right>
+    <ns2:top>1141</ns2:top>
+  </ns2:rectangle>
+</ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0"><ns2:text>Paper - photo copier, A4 80 g Paper - colour Ink jet, A4 105g</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>1258</ns2:bottom>
+  <ns2:left>624</ns2:left>
+  <ns2:right>1179</ns2:right>
+  <ns2:top>1141</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+  <ns2:text>10 reams</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>1171</ns2:bottom>
+  <ns2:left>1578</ns2:left>
+  <ns2:right>1739</ns2:right>
+  <ns2:top>1141</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+  <ns2:text>2 P876-765</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>1250</ns2:bottom>
+  <ns2:left>176</ns2:left>
+  <ns2:right>465</ns2:right>
+  <ns2:top>1220</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+  <ns2:text>10 reams</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>1250</ns2:bottom>
+  <ns2:left>1578</ns2:left>
+  <ns2:right>1739</ns2:right>
+  <ns2:top>1220</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0"><ns2:text>$133.00 $13.30 $146.30</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>1700</ns2:bottom>
+<ns2:left>2163</ns2:left>
+<ns2:right>2312</ns2:right>
+<ns2:top>1539</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+    <ns2:text>Comments</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>1580</ns2:bottom>
+<ns2:left>175</ns2:left>
+<ns2:right>388</ns2:right>
+<ns2:top>1531</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0"><ns2:text>Sub Total Tax Total AmountPaid Amount Due</ns2:text>
+      <ns2:region>
+    <ns2:rectangle>
+  <ns2:bottom>1825</ns2:bottom>
+  <ns2:left>1725</ns2:left>
+  <ns2:right>2000</ns2:right>
+  <ns2:top>1541</ns2:top>
+    </ns2:rectangle>
+      </ns2:region>
+        </ns2:textBlock>
+        <ns2:textBlock confidence="1.0">
+      <ns2:text>TERMS &amp; CONDITIONS</ns2:text>
+      <ns2:region>
+    <ns2:rectangle>
+  <ns2:bottom>1767</ns2:bottom>
+  <ns2:left>180</ns2:left>
+  <ns2:right>586</ns2:right>
+  <ns2:top>1740</ns2:top>
+    </ns2:rectangle>
+      </ns2:region>
+        </ns2:textBlock>
+        <ns2:textBlock confidence="1.0">
+      <ns2:text>1.	Interest may be levied on overdue accounts.</ns2:text>
+      <ns2:region>
+    <ns2:rectangle>
+  <ns2:bottom>1821</ns2:bottom>
+  <ns2:left>180</ns2:left>
+  <ns2:right>947</ns2:right>
+  <ns2:top>1786</ns2:top>
+    </ns2:rectangle>
+      </ns2:region>
+        </ns2:textBlock>
+        <ns2:textBlock confidence="1.0">
+      <ns2:text>2.	Goods sold are not returnable or refundable</ns2:text>
+      <ns2:region>
+    <ns2:rectangle>
+  <ns2:bottom>1858</ns2:bottom>
+  <ns2:left>177</ns2:left>
+  <ns2:right>942</ns2:right>
+  <ns2:top>1831</ns2:top>
+    </ns2:rectangle>
+      </ns2:region>
+        </ns2:textBlock>
+        <ns2:textBlock confidence="1.0">
+      <ns2:text>$146.30</ns2:text>
+      <ns2:region>
+    <ns2:rectangle>
+  <ns2:bottom>1830</ns2:bottom>
+  <ns2:left>2148</ns2:left>
+  <ns2:right>2309</ns2:right>
+  <ns2:top>1790</ns2:top>
+    </ns2:rectangle>
+      </ns2:region>
+        </ns2:textBlock>
+        <ns2:textBlock confidence="1.0">
+      <ns2:text>Downloaded from http://www.tidyforms.com</ns2:text>
+      <ns2:region>
+    <ns2:rectangle>
+  <ns2:bottom>3497</ns2:bottom>
+  <ns2:left>841</ns2:left>
+  <ns2:right>1654</ns2:right>
+  <ns2:top>3459</ns2:top>
+    </ns2:rectangle>
+      </ns2:region>
+        </ns2:textBlock>
+          </ns2:blocks>
+            </ns2:page>
+              </ns2:pages>
+

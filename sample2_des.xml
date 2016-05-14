@@ -1,0 +1,753 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:pages xmlns:ns2="http://schema.intuit.com/data-extraction/3.0/data-extraction" confidence="0.98797697">
+  <ns2:page number="1" filename="93768f65-9fd1-4dd1-b7c0-134e12069c7e-151108103458-lva1-app6891.pdf" confidence="0.9825275">
+    <ns2:blocks>
+      <ns2:textBlock confidence="1.0">
+        <ns2:text>Kanika Midha</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>220</ns2:bottom>
+            <ns2:left>132</ns2:left>
+            <ns2:right>754</ns2:right>
+            <ns2:top>156</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="0.5">
+        <ns2:text>IIIT-H</ns2:text>
+        <ns2:region>
+          <ns2:rectangle>
+            <ns2:bottom>356</ns2:bottom>
+            <ns2:left>2126</ns2:left>
+            <ns2:right>2368</ns2:right>
+            <ns2:top>298</ns2:top>
+          </ns2:rectangle>
+        </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="0.9741379"><ns2:text>Department of Computer Science and Engineering, IIIT Hyderabad Email: knkmidha@gmail.com Contact No.: +91-9581776884</ns2:text>
+      <ns2:region>
+        <ns2:rectangle>
+          <ns2:bottom>442</ns2:bottom>
+          <ns2:left>128</ns2:left>
+          <ns2:right>1644</ns2:right>
+          <ns2:top>343</ns2:top>
+        </ns2:rectangle>
+      </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+      <ns2:text>Education</ns2:text>
+      <ns2:region>
+        <ns2:rectangle>
+          <ns2:bottom>588</ns2:bottom>
+          <ns2:left>128</ns2:left>
+          <ns2:right>366</ns2:right>
+          <ns2:top>555</ns2:top>
+        </ns2:rectangle>
+      </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+      <ns2:text>Degree/Examination</ns2:text>
+      <ns2:region>
+        <ns2:rectangle>
+          <ns2:bottom>648</ns2:bottom>
+          <ns2:left>250</ns2:left>
+          <ns2:right>743</ns2:right>
+          <ns2:top>607</ns2:top>
+        </ns2:rectangle>
+      </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0"><ns2:text>B. Tech. in CSE(currently in 	3rd year)	</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>758</ns2:bottom>
+        <ns2:left>199</ns2:left>
+        <ns2:right>793</ns2:right>
+        <ns2:top>661</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Institute</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>640</ns2:bottom>
+        <ns2:left>1161</ns2:left>
+        <ns2:right>1367</ns2:right>
+        <ns2:top>607</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Grades</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>640</ns2:bottom>
+        <ns2:left>2244</ns2:left>
+        <ns2:right>2413</ns2:right>
+        <ns2:top>607</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>Year</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>640</ns2:bottom>
+        <ns2:left>1831</ns2:left>
+        <ns2:right>1940</ns2:right>
+        <ns2:top>608</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="0.9285714">
+    <ns2:text>IIIT Hyderabad</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>728</ns2:bottom>
+        <ns2:left>1108</ns2:left>
+        <ns2:right>1420</ns2:right>
+        <ns2:top>686</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>2013-2017</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>719</ns2:bottom>
+        <ns2:left>1769</ns2:left>
+        <ns2:right>2001</ns2:right>
+        <ns2:top>686</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>8.28/10</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>723</ns2:bottom>
+        <ns2:left>2248</ns2:left>
+        <ns2:right>2410</ns2:right>
+        <ns2:top>686</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>12th , CBSE</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>813</ns2:bottom>
+        <ns2:left>382</ns2:left>
+        <ns2:right>613</ns2:right>
+        <ns2:top>771</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>S.D. Public School,Chandigarh</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>816</ns2:bottom>
+        <ns2:left>949</ns2:left>
+        <ns2:right>1599</ns2:right>
+        <ns2:top>774</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>2013</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>807</ns2:bottom>
+        <ns2:left>1833</ns2:left>
+        <ns2:right>1937</ns2:right>
+        <ns2:top>774</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>96.2%</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>807</ns2:bottom>
+        <ns2:left>2263</ns2:left>
+        <ns2:right>2396</ns2:right>
+        <ns2:top>774</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>10th , CBSE</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>886</ns2:bottom>
+        <ns2:left>382</ns2:left>
+        <ns2:right>613</ns2:right>
+        <ns2:top>844</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>St. Anne's Convent School</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>880</ns2:bottom>
+        <ns2:left>979</ns2:left>
+        <ns2:right>1547</ns2:right>
+        <ns2:top>847</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>2011</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>880</ns2:bottom>
+        <ns2:left>1833</ns2:left>
+        <ns2:right>1937</ns2:right>
+        <ns2:top>847</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>10/10</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>884</ns2:bottom>
+        <ns2:left>2271</ns2:left>
+        <ns2:right>2389</ns2:right>
+        <ns2:top>847</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+    <ns2:text>WORK EXPERIENCE</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1055</ns2:bottom>
+        <ns2:left>125</ns2:left>
+        <ns2:right>660</ns2:right>
+        <ns2:top>1017</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="0.93333334">
+    <ns2:text>SUMMER INTERN AT VED COMPUTECH(May-July 2015)</ns2:text>
+    <ns2:region>
+      <ns2:rectangle>
+        <ns2:bottom>1115</ns2:bottom>
+        <ns2:left>127</ns2:left>
+        <ns2:right>1436</ns2:right>
+        <ns2:top>1075</ns2:top>
+      </ns2:rectangle>
+    </ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0"><ns2:text>MENTOR: Aditya Vikram Singh DESCRIPTION:</ns2:text>
+  <ns2:region>
+    <ns2:rectangle>
+      <ns2:bottom>1264</ns2:bottom>
+      <ns2:left>128</ns2:left>
+      <ns2:right>867</ns2:right>
+      <ns2:top>1180</ns2:top>
+    </ns2:rectangle>
+  </ns2:region>
+</ns2:textBlock>
+<ns2:textBlock confidence="1.0"><ns2:text>Built the website and Mobile Site for the Real Estate project for the company using Javascript , PHP and HTML.</ns2:text>
+<ns2:region>
+  <ns2:rectangle>
+    <ns2:bottom>1370</ns2:bottom>
+    <ns2:left>128</ns2:left>
+    <ns2:right>2491</ns2:right>
+    <ns2:top>1282</ns2:top>
+  </ns2:rectangle>
+</ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+<ns2:text>PROJECTS</ns2:text>
+<ns2:region>
+  <ns2:rectangle>
+    <ns2:bottom>1488</ns2:bottom>
+    <ns2:left>128</ns2:left>
+    <ns2:right>374</ns2:right>
+    <ns2:top>1444</ns2:top>
+  </ns2:rectangle>
+</ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+<ns2:text>ANALYTICS APP USING DJANGO(Team of 4)</ns2:text>
+<ns2:region>
+  <ns2:rectangle>
+    <ns2:bottom>1592</ns2:bottom>
+    <ns2:left>124</ns2:left>
+    <ns2:right>1132</ns2:right>
+    <ns2:top>1552</ns2:top>
+  </ns2:rectangle>
+</ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0">
+<ns2:text>MENTOR: Hemanth Satyanarayana(Imaginate,Hyderabad)</ns2:text>
+<ns2:region>
+  <ns2:rectangle>
+    <ns2:bottom>1693</ns2:bottom>
+    <ns2:left>128</ns2:left>
+    <ns2:right>1605</ns2:right>
+    <ns2:top>1648</ns2:top>
+  </ns2:rectangle>
+</ns2:region>
+  </ns2:textBlock>
+  <ns2:textBlock confidence="1.0"><ns2:text>DESCRIPTION: The app allows the user to try the apparel, share it on facebook or G+.Based on the actions the user performs information like device, operating system, browser, country,IP, date,time etc is tracked and we build piecharts and bar graphs to depict the appropriate information for the merchants. Built something similar to GoogleAnalytics.</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>1898</ns2:bottom>
+  <ns2:left>125</ns2:left>
+  <ns2:right>2429</ns2:right>
+  <ns2:top>1703</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+  <ns2:text>DATABASE PROJECT</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>1992</ns2:bottom>
+  <ns2:left>128</ns2:left>
+  <ns2:right>606</ns2:right>
+  <ns2:top>1951</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0">
+  <ns2:text>MENTOR: Prof. Radha Krishna</ns2:text>
+  <ns2:region>
+<ns2:rectangle>
+  <ns2:bottom>2090</ns2:bottom>
+  <ns2:left>128</ns2:left>
+  <ns2:right>850</ns2:right>
+  <ns2:top>2057</ns2:top>
+</ns2:rectangle>
+  </ns2:region>
+    </ns2:textBlock>
+    <ns2:textBlock confidence="1.0"><ns2:text>DESCRIPTION: Built a database query engine for a hospital database(Implemented in PHP and MYSQL) User can insert,view,update or delete rows in the database.</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>2201</ns2:bottom>
+<ns2:left>128</ns2:left>
+<ns2:right>2399</ns2:right>
+<ns2:top>2107</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0">
+    <ns2:text>FILE SHARING PROTOCOL</ns2:text>
+    <ns2:region>
+  <ns2:rectangle>
+<ns2:bottom>2296</ns2:bottom>
+<ns2:left>128</ns2:left>
+<ns2:right>749</ns2:right>
+<ns2:top>2263</ns2:top>
+  </ns2:rectangle>
+    </ns2:region>
+      </ns2:textBlock>
+      <ns2:textBlock confidence="1.0"><ns2:text>MENTOR: Prof: Shatrunjay Rawat DESCRIPTION:</ns2:text>
+      <ns2:region>
+    <ns2:rectangle>
+  <ns2:bottom>2454</ns2:bottom>
+  <ns2:left>128</ns2:left>
+  <ns2:right>939</ns2:right>
+  <ns2:top>2370</ns2:top>
+    </ns2:rectangle>
+      </ns2:region>
+        </ns2:textBlock>
+        <ns2:textBlock confidence="1.0"><ns2:text>Built a file sharing protocol(a mini version of DC++) using socket programming in C that provides the facility to users to upload or download from the shared folder.</ns2:text>
+        <ns2:region>
+      <ns2:rectangle>
+    <ns2:bottom>2565</ns2:bottom>
+    <ns2:left>125</ns2:left>
+    <ns2:right>2347</ns2:right>
+    <ns2:top>2472</ns2:top>
+      </ns2:rectangle>
+        </ns2:region>
+          </ns2:textBlock>
+          <ns2:textBlock confidence="1.0">
+        <ns2:text>BUILDING A CLOUD BASED VIRTUALIZATION ORCHESTRATION LAYER</ns2:text>
+        <ns2:region>
+      <ns2:rectangle>
+    <ns2:bottom>2660</ns2:bottom>
+    <ns2:left>128</ns2:left>
+    <ns2:right>1792</ns2:right>
+    <ns2:top>2627</ns2:top>
+      </ns2:rectangle>
+        </ns2:region>
+          </ns2:textBlock>
+          <ns2:textBlock confidence="1.0"><ns2:text>MENTOR: Prof. Vasudeva Verma DESCRIPTION:</ns2:text>
+          <ns2:region>
+        <ns2:rectangle>
+      <ns2:bottom>2818</ns2:bottom>
+      <ns2:left>128</ns2:left>
+      <ns2:right>906</ns2:right>
+      <ns2:top>2734</ns2:top>
+        </ns2:rectangle>
+          </ns2:region>
+            </ns2:textBlock>
+            <ns2:textBlock confidence="1.0"><ns2:text>Built a fabric that can coordinate the provisioning of compute resources by negotiating with a set of Hypervisors running across physical servers in the data center. Implemented Resource Discovery,Resource Allocation and REST API Server.</ns2:text>
+            <ns2:region>
+          <ns2:rectangle>
+        <ns2:bottom>2971</ns2:bottom>
+        <ns2:left>124</ns2:left>
+        <ns2:right>2465</ns2:right>
+        <ns2:top>2836</ns2:top>
+          </ns2:rectangle>
+            </ns2:region>
+              </ns2:textBlock>
+              <ns2:textBlock confidence="1.0">
+            <ns2:text>BUILDING A COMPILER FOR DECAF PROGRAMMING LANGUAGE</ns2:text>
+            <ns2:region>
+          <ns2:rectangle>
+        <ns2:bottom>3127</ns2:bottom>
+        <ns2:left>128</ns2:left>
+        <ns2:right>1649</ns2:right>
+        <ns2:top>3094</ns2:top>
+          </ns2:rectangle>
+            </ns2:region>
+              </ns2:textBlock>
+                </ns2:blocks>
+                  </ns2:page>
+                  <ns2:page number="2" filename="93768f65-9fd1-4dd1-b7c0-134e12069c7e-151108103458-lva1-app6891.pdf" confidence="0.994657">
+                <ns2:blocks>
+              <ns2:textBlock confidence="1.0"><ns2:text>MENTOR: Prof. Suresh Purini DESCRIPTION:</ns2:text>
+              <ns2:region>
+            <ns2:rectangle>
+          <ns2:bottom>188</ns2:bottom>
+          <ns2:left>128</ns2:left>
+          <ns2:right>828</ns2:right>
+          <ns2:top>104</ns2:top>
+            </ns2:rectangle>
+              </ns2:region>
+                </ns2:textBlock>
+                <ns2:textBlock confidence="0.98876405"><ns2:text>The project involved writing a parser for parsing the source code, using flex and bison, and detecting any errors; Constructing an AST of the given source code, using bison,Generating IR code from each of the nodes in the AST, and then evaluating this IR, using LLVM.</ns2:text>
+                <ns2:region>
+              <ns2:rectangle>
+            <ns2:bottom>350</ns2:bottom>
+            <ns2:left>124</ns2:left>
+            <ns2:right>2435</ns2:right>
+            <ns2:top>206</ns2:top>
+              </ns2:rectangle>
+                </ns2:region>
+                  </ns2:textBlock>
+                  <ns2:textBlock confidence="1.0">
+                <ns2:text>MINIPROJECTS</ns2:text>
+                <ns2:region>
+              <ns2:rectangle>
+            <ns2:bottom>454</ns2:bottom>
+            <ns2:left>128</ns2:left>
+            <ns2:right>476</ns2:right>
+            <ns2:top>412</ns2:top>
+              </ns2:rectangle>
+                </ns2:region>
+                  </ns2:textBlock>
+                  <ns2:textBlock confidence="1.0"><ns2:text>•	Map-Reduce based project where hits to a page,hits from an IP, popular websites etc were extracted from the webserver log.</ns2:text>
+                  <ns2:region>
+                <ns2:rectangle>
+              <ns2:bottom>615</ns2:bottom>
+              <ns2:left>201</ns2:left>
+              <ns2:right>2487</ns2:right>
+              <ns2:top>519</ns2:top>
+                </ns2:rectangle>
+                  </ns2:region>
+                    </ns2:textBlock>
+                    <ns2:textBlock confidence="1.0">
+                  <ns2:text>•	Made a 2D carom board game implemented in C using OpenGL.</ns2:text>
+                  <ns2:region>
+                <ns2:rectangle>
+              <ns2:bottom>667</ns2:bottom>
+              <ns2:left>201</ns2:left>
+              <ns2:right>1690</ns2:right>
+              <ns2:top>625</ns2:top>
+                </ns2:rectangle>
+                  </ns2:region>
+                    </ns2:textBlock>
+                    <ns2:textBlock confidence="1.0"><ns2:text>•	Created an Image Viewer in Web2py whereby a user can upload the pictures and create an album and also view the album in a slide show and comment or like on other users album photos.</ns2:text>
+                    <ns2:region>
+                  <ns2:rectangle>
+                <ns2:bottom>775</ns2:bottom>
+                <ns2:left>201</ns2:left>
+                <ns2:right>2422</ns2:right>
+                <ns2:top>679</ns2:top>
+                  </ns2:rectangle>
+                    </ns2:region>
+                      </ns2:textBlock>
+                      <ns2:textBlock confidence="1.0">
+                    <ns2:text>•	Made a 32bit to 64bit Assembly code translator in python.</ns2:text>
+                    <ns2:region>
+                  <ns2:rectangle>
+                <ns2:bottom>826</ns2:bottom>
+                <ns2:left>201</ns2:left>
+                <ns2:right>1546</ns2:right>
+                <ns2:top>784</ns2:top>
+                  </ns2:rectangle>
+                    </ns2:region>
+                      </ns2:textBlock>
+                      <ns2:textBlock confidence="1.0">
+                    <ns2:text>•	Made a simple TODO list in android.</ns2:text>
+                    <ns2:region>
+                  <ns2:rectangle>
+                <ns2:bottom>881</ns2:bottom>
+                <ns2:left>201</ns2:left>
+                <ns2:right>1056</ns2:right>
+                <ns2:top>839</ns2:top>
+                  </ns2:rectangle>
+                    </ns2:region>
+                      </ns2:textBlock>
+                      <ns2:textBlock confidence="1.0">
+                    <ns2:text>•	Made a simple sqlparser.</ns2:text>
+                    <ns2:region>
+                  <ns2:rectangle>
+                <ns2:bottom>935</ns2:bottom>
+                <ns2:left>201</ns2:left>
+                <ns2:right>814</ns2:right>
+                <ns2:top>893</ns2:top>
+                  </ns2:rectangle>
+                    </ns2:region>
+                      </ns2:textBlock>
+                      <ns2:textBlock confidence="1.0">
+                    <ns2:text>•	Custom Linux shell</ns2:text>
+                    <ns2:region>
+                  <ns2:rectangle>
+                <ns2:bottom>980</ns2:bottom>
+                <ns2:left>201</ns2:left>
+                <ns2:right>685</ns2:right>
+                <ns2:top>947</ns2:top>
+                  </ns2:rectangle>
+                    </ns2:region>
+                      </ns2:textBlock>
+                      <ns2:textBlock confidence="1.0">
+                    <ns2:text>Achievements</ns2:text>
+                    <ns2:region>
+                  <ns2:rectangle>
+                <ns2:bottom>1140</ns2:bottom>
+                <ns2:left>124</ns2:left>
+                <ns2:right>469</ns2:right>
+                <ns2:top>1107</ns2:top>
+                  </ns2:rectangle>
+                    </ns2:region>
+                      </ns2:textBlock>
+                      <ns2:textBlock confidence="1.0"><ns2:text>•	Won the first prize in State Science Fair for mathematical modelling project based on integration in class tenth</ns2:text>
+                      <ns2:region>
+                    <ns2:rectangle>
+                  <ns2:bottom>1300</ns2:bottom>
+                  <ns2:left>201</ns2:left>
+                  <ns2:right>2439</ns2:right>
+                  <ns2:top>1213</ns2:top>
+                    </ns2:rectangle>
+                      </ns2:region>
+                        </ns2:textBlock>
+                        <ns2:textBlock confidence="1.0">
+                      <ns2:text>•	Secured a rank of 4369 in IIT-JEE(ADVANCED) from 1.5 lakh students.</ns2:text>
+                      <ns2:region>
+                    <ns2:rectangle>
+                  <ns2:bottom>1361</ns2:bottom>
+                  <ns2:left>201</ns2:left>
+                  <ns2:right>1798</ns2:right>
+                  <ns2:top>1319</ns2:top>
+                    </ns2:rectangle>
+                      </ns2:region>
+                        </ns2:textBlock>
+                        <ns2:textBlock confidence="1.0"><ns2:text>•	Secured 612th rank in All India Engineering Entrance Examination 2013 and a state rank of 12 from a million candidates.</ns2:text>
+                        <ns2:region>
+                      <ns2:rectangle>
+                    <ns2:bottom>1460</ns2:bottom>
+                    <ns2:left>201</ns2:left>
+                    <ns2:right>2493</ns2:right>
+                    <ns2:top>1370</ns2:top>
+                      </ns2:rectangle>
+                        </ns2:region>
+                          </ns2:textBlock>
+                          <ns2:textBlock confidence="1.0">
+                        <ns2:text>•	Dean's Award for Academics, Monsoon 2013</ns2:text>
+                        <ns2:region>
+                      <ns2:rectangle>
+                    <ns2:bottom>1517</ns2:bottom>
+                    <ns2:left>201</ns2:left>
+                    <ns2:right>1243</ns2:right>
+                    <ns2:top>1478</ns2:top>
+                      </ns2:rectangle>
+                        </ns2:region>
+                          </ns2:textBlock>
+                          <ns2:textBlock confidence="0.96511626">
+                        <ns2:text>•	Selected for Prototype Development Round Among top 5 teams in India in ICICI TRINITY</ns2:text>
+                        <ns2:region>
+                      <ns2:rectangle>
+                    <ns2:bottom>1575</ns2:bottom>
+                    <ns2:left>201</ns2:left>
+                    <ns2:right>2193</ns2:right>
+                    <ns2:top>1533</ns2:top>
+                      </ns2:rectangle>
+                        </ns2:region>
+                          </ns2:textBlock>
+                          <ns2:textBlock confidence="1.0">
+                        <ns2:text>HANDLES</ns2:text>
+                        <ns2:region>
+                      <ns2:rectangle>
+                    <ns2:bottom>1673</ns2:bottom>
+                    <ns2:left>128</ns2:left>
+                    <ns2:right>353</ns2:right>
+                    <ns2:top>1640</ns2:top>
+                      </ns2:rectangle>
+                        </ns2:region>
+                          </ns2:textBlock>
+                          <ns2:textBlock confidence="0.99159664"><ns2:text>Github Handle:https://github.com/kanika2107?tab=repositories Codechef Handle: http://www.codechef.com/users/kanika210 7</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>1837</ns2:bottom>
+                      <ns2:left>127</ns2:left>
+                      <ns2:right>1512</ns2:right>
+                      <ns2:top>1745</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="1.0">
+                          <ns2:text>Technical Skills</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>1945</ns2:bottom>
+                      <ns2:left>124</ns2:left>
+                      <ns2:right>496</ns2:right>
+                      <ns2:top>1912</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="1.0">
+                          <ns2:text>Programming Languages: C , C++, Matlab, Java(basic)</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>2063</ns2:bottom>
+                      <ns2:left>353</ns2:left>
+                      <ns2:right>1597</ns2:right>
+                      <ns2:top>2018</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="1.0">
+                          <ns2:text>Scripting Languages: Bash, Python, Javascript, Scheme</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>2120</ns2:bottom>
+                      <ns2:left>352</ns2:left>
+                      <ns2:right>1612</ns2:right>
+                      <ns2:top>2075</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="0.8888889">
+                          <ns2:text>Web Technologies: HTML, CsS</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>2177</ns2:bottom>
+                      <ns2:left>351</ns2:left>
+                      <ns2:right>1032</ns2:right>
+                      <ns2:top>2110</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="1.0">
+                          <ns2:text>Database Systems: MySQL</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>2234</ns2:bottom>
+                      <ns2:left>353</ns2:left>
+                      <ns2:right>964</ns2:right>
+                      <ns2:top>2189</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="1.0">
+                          <ns2:text>Libraries, API, Tools: Jquery, GraphAPI , Facepy</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>2290</ns2:bottom>
+                      <ns2:left>353</ns2:left>
+                      <ns2:right>1409</ns2:right>
+                      <ns2:top>2245</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="1.0">
+                          <ns2:text>Frameworks: Django,Flask, Web2py</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>2348</ns2:bottom>
+                      <ns2:left>353</ns2:left>
+                      <ns2:right>1163</ns2:right>
+                      <ns2:top>2303</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="1.0">
+                          <ns2:text>Programming Environments: Vim (Moderate),Sublime</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>2404</ns2:bottom>
+                      <ns2:left>353</ns2:left>
+                      <ns2:right>1572</ns2:right>
+                      <ns2:top>2359</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="1.0">
+                          <ns2:text>Version Control: Git</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>2451</ns2:bottom>
+                      <ns2:left>349</ns2:left>
+                      <ns2:right>793</ns2:right>
+                      <ns2:top>2416</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="1.0">
+                          <ns2:text>Android Programming</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>2518</ns2:bottom>
+                      <ns2:left>349</ns2:left>
+                      <ns2:right>845</ns2:right>
+                      <ns2:top>2473</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="1.0">
+                          <ns2:text>Hadoop</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>2575</ns2:bottom>
+                      <ns2:left>353</ns2:left>
+                      <ns2:right>523</ns2:right>
+                      <ns2:top>2530</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="1.0">
+                          <ns2:text>Courses Undertaken</ns2:text>
+                          <ns2:region>
+                        <ns2:rectangle>
+                      <ns2:bottom>2767</ns2:bottom>
+                      <ns2:left>126</ns2:left>
+                      <ns2:right>621</ns2:right>
+                      <ns2:top>2734</ns2:top>
+                        </ns2:rectangle>
+                          </ns2:region>
+                            </ns2:textBlock>
+                            <ns2:textBlock confidence="1.0"><ns2:text>Computer Programming, IT Workshop1, Data Structures, Algorithms, IT Workshop2, Graphics, Formal Methods, Computer Networks, Artificial Intelligence, Mathematics1, Mathematics2, Digital Signal Analysis and Applications, Digital Logic and Processors, Computer system and Organization, SSAD, Introduction to Databases, Operating Systems, Principles of Programming Languages(ongoing), Compilers(ongoing), Cloud Computing(ongoing)</ns2:text>
+                            <ns2:region>
+                          <ns2:rectangle>
+                        <ns2:bottom>3087</ns2:bottom>
+                        <ns2:left>100</ns2:left>
+                        <ns2:right>2410</ns2:right>
+                        <ns2:top>2829</ns2:top>
+                          </ns2:rectangle>
+                            </ns2:region>
+                              </ns2:textBlock>
+                                </ns2:blocks>
+                                  </ns2:page>
+                                    </ns2:pages>
